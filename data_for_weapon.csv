@@ -1,0 +1,845 @@
+"weaptype1_txt","country_name","Freq"
+"Biological","Chile",1
+"Biological","Israel",1
+"Biological","Japan",2
+"Biological","Kenya",3
+"Biological","Pakistan",2
+"Biological","United Kingdom",2
+"Biological","United States",24
+"Chemical","Afghanistan",58
+"Chemical","Albania",1
+"Chemical","Angola",1
+"Chemical","Argentina",2
+"Chemical","Australia",3
+"Chemical","Austria",1
+"Chemical","Belgium",9
+"Chemical","Brazil",1
+"Chemical","Bulgaria",2
+"Chemical","Cambodia",2
+"Chemical","Canada",3
+"Chemical","Chile",4
+"Chemical","China",3
+"Chemical","Colombia",12
+"Chemical","Czech Republic",3
+"Chemical","Denmark",1
+"Chemical","El Salvador",1
+"Chemical","France",4
+"Chemical","Germany",8
+"Chemical","Honduras",1
+"Chemical","Hong Kong",1
+"Chemical","India",12
+"Chemical","Indonesia",2
+"Chemical","Iraq",47
+"Chemical","Israel",6
+"Chemical","Italy",4
+"Chemical","Japan",12
+"Chemical","Jordan",1
+"Chemical","Lebanon",1
+"Chemical","Libyan Arab Jamahiriya",1
+"Chemical","Madagascar",1
+"Chemical","Mexico",1
+"Chemical","Namibia",1
+"Chemical","Nepal",2
+"Chemical","Netherlands",1
+"Chemical","New Zealand",8
+"Chemical","Nigeria",3
+"Chemical","Pakistan",7
+"Chemical","Palestine",5
+"Chemical","Peru",3
+"Chemical","Philippines",2
+"Chemical","Russia",5
+"Chemical","Somalia",1
+"Chemical","South Africa",1
+"Chemical","Sri Lanka",4
+"Chemical","Sweden",2
+"Chemical","Syrian Arab Republic",8
+"Chemical","Taiwan",1
+"Chemical","Tajikistan",2
+"Chemical","Thailand",1
+"Chemical","Turkey",2
+"Chemical","Uganda",1
+"Chemical","Ukraine",1
+"Chemical","United Kingdom",9
+"Chemical","United Republic of Tanzania",2
+"Chemical","United States",22
+"Chemical","Venezuela",4
+"Chemical","Viet Nam",4
+"Chemical","Yemen",1
+"Chemical","Zimbabwe",1
+"Explosives","Afghanistan",6777
+"Explosives","Albania",51
+"Explosives","Algeria",1102
+"Explosives","Angola",255
+"Explosives","Argentina",492
+"Explosives","Armenia",11
+"Explosives","Australia",43
+"Explosives","Austria",59
+"Explosives","Azerbaijan",20
+"Explosives","Bahamas",2
+"Explosives","Bahrain",122
+"Explosives","Bangladesh",836
+"Explosives","Barbados",2
+"Explosives","Belarus",8
+"Explosives","Belgium",71
+"Explosives","Belize",1
+"Explosives","Benin",4
+"Explosives","Bhutan",5
+"Explosives","Bolivia",244
+"Explosives","Botswana",9
+"Explosives","Brazil",72
+"Explosives","Brunei Darussalam",6
+"Explosives","Bulgaria",35
+"Explosives","Burkina Faso",9
+"Explosives","Burma",288
+"Explosives","Burundi",237
+"Explosives","Cambodia",126
+"Explosives","Cameroon",127
+"Explosives","Canada",41
+"Explosives","Central African Republic",34
+"Explosives","Chad",24
+"Explosives","Chile",1747
+"Explosives","China",167
+"Explosives","Colombia",3192
+"Explosives","Costa Rica",35
+"Explosives","Croatia",40
+"Explosives","Cuba",12
+"Explosives","Cyprus",106
+"Explosives","Czech Republic",13
+"Explosives","Democratic Republic of the Congo",69
+"Explosives","Denmark",15
+"Explosives","Djibouti",10
+"Explosives","Dominican Republic",54
+"Explosives","Ecuador",121
+"Explosives","Egypt",1265
+"Explosives","El Salvador",1994
+"Explosives","Eritrea",4
+"Explosives","Estonia",8
+"Explosives","Ethiopia",77
+"Explosives","Fiji",6
+"Explosives","Finland",4
+"Explosives","France",2026
+"Explosives","French Guiana",3
+"Explosives","Gabon",4
+"Explosives","Georgia",124
+"Explosives","Germany",82
+"Explosives","Ghana",9
+"Explosives","Greece",716
+"Explosives","Grenada",2
+"Explosives","Guadeloupe",45
+"Explosives","Guatemala",444
+"Explosives","Guinea",2
+"Explosives","Guinea-Bissau",1
+"Explosives","Guyana",9
+"Explosives","Haiti",37
+"Explosives","Honduras",160
+"Explosives","Hong Kong",9
+"Explosives","Hungary",32
+"Explosives","Iceland",2
+"Explosives","India",5030
+"Explosives","Indonesia",300
+"Explosives","Iran (Islamic Republic of)",351
+"Explosives","Iraq",18925
+"Explosives","Ireland",167
+"Explosives","Israel",1530
+"Explosives","Italy",666
+"Explosives","Jamaica",3
+"Explosives","Japan",126
+"Explosives","Jordan",50
+"Explosives","Kazakhstan",7
+"Explosives","Kenya",320
+"Explosives","Korea, Democratic People's Republic of",5
+"Explosives","Kuwait",39
+"Explosives","Kyrgyzstan",18
+"Explosives","Lao People's Democratic Republic",14
+"Explosives","Latvia",14
+"Explosives","Lebanon",1623
+"Explosives","Lesotho",15
+"Explosives","Liberia",4
+"Explosives","Libyan Arab Jamahiriya",1038
+"Explosives","Lithuania",6
+"Explosives","Luxembourg",15
+"Explosives","Macau",15
+"Explosives","Madagascar",12
+"Explosives","Malaysia",39
+"Explosives","Maldives",3
+"Explosives","Mali",215
+"Explosives","Malta",13
+"Explosives","Martinique",9
+"Explosives","Mauritania",3
+"Explosives","Mexico",112
+"Explosives","Montenegro",4
+"Explosives","Morocco",17
+"Explosives","Mozambique",55
+"Explosives","Namibia",84
+"Explosives","Nepal",677
+"Explosives","Netherlands",52
+"Explosives","New Caledonia",13
+"Explosives","New Zealand",6
+"Explosives","Nicaragua",271
+"Explosives","Niger",31
+"Explosives","Nigeria",1332
+"Explosives","Norway",4
+"Explosives","Pakistan",8095
+"Explosives","Palestine",671
+"Explosives","Panama",74
+"Explosives","Papua New Guinea",11
+"Explosives","Paraguay",18
+"Explosives","Peru",3057
+"Explosives","Philippines",2348
+"Explosives","Poland",27
+"Explosives","Portugal",109
+"Explosives","Qatar",2
+"Explosives","Republic of Moldova",12
+"Explosives","Romania",3
+"Explosives","Russia",1241
+"Explosives","Rwanda",51
+"Explosives","Saudi Arabia",250
+"Explosives","Senegal",20
+"Explosives","Serbia",124
+"Explosives","Seychelles",1
+"Explosives","Sierra Leone",7
+"Explosives","Singapore",4
+"Explosives","Slovenia",4
+"Explosives","Somalia",1978
+"Explosives","South Africa",949
+"Explosives","Spain",1936
+"Explosives","Sri Lanka",1145
+"Explosives","Sudan",112
+"Explosives","Suriname",9
+"Explosives","Swaziland",7
+"Explosives","Sweden",42
+"Explosives","Switzerland",66
+"Explosives","Syrian Arab Republic",1602
+"Explosives","Taiwan",11
+"Explosives","Tajikistan",60
+"Explosives","Thailand",1908
+"Explosives","The former Yugoslav Republic of Macedonia",160
+"Explosives","Togo",24
+"Explosives","Trinidad and Tobago",4
+"Explosives","Tunisia",48
+"Explosives","Turkey",2057
+"Explosives","Uganda",83
+"Explosives","Ukraine",1161
+"Explosives","United Arab Emirates",13
+"Explosives","United Kingdom",2216
+"Explosives","United Republic of Tanzania",25
+"Explosives","United States",1404
+"Explosives","Uruguay",30
+"Explosives","Uzbekistan",14
+"Explosives","Venezuela",103
+"Explosives","Viet Nam",3
+"Explosives","Western Sahara",1
+"Explosives","Yemen",1573
+"Explosives","Zambia",33
+"Explosives","Zimbabwe",77
+"Firearms","Afghanistan",3800
+"Firearms","Albania",22
+"Firearms","Algeria",1008
+"Firearms","Andorra",1
+"Firearms","Angola",147
+"Firearms","Argentina",155
+"Firearms","Armenia",10
+"Firearms","Australia",14
+"Firearms","Austria",15
+"Firearms","Azerbaijan",21
+"Firearms","Bahamas",2
+"Firearms","Bahrain",10
+"Firearms","Bangladesh",278
+"Firearms","Barbados",1
+"Firearms","Belarus",1
+"Firearms","Belgium",22
+"Firearms","Belize",4
+"Firearms","Benin",2
+"Firearms","Bhutan",1
+"Firearms","Bolivia",36
+"Firearms","Brazil",113
+"Firearms","Bulgaria",6
+"Firearms","Burkina Faso",31
+"Firearms","Burma",124
+"Firearms","Burundi",244
+"Firearms","Cambodia",92
+"Firearms","Cameroon",91
+"Firearms","Canada",13
+"Firearms","Central African Republic",170
+"Firearms","Chad",42
+"Firearms","Chile",280
+"Firearms","China",3
+"Firearms","Colombia",3364
+"Firearms","Comoros",2
+"Firearms","Costa Rica",22
+"Firearms","Croatia",16
+"Firearms","Cuba",6
+"Firearms","Cyprus",16
+"Firearms","Czech Republic",1
+"Firearms","Democratic Republic of the Congo",386
+"Firearms","Denmark",7
+"Firearms","Djibouti",8
+"Firearms","Dominica",2
+"Firearms","Dominican Republic",15
+"Firearms","Ecuador",61
+"Firearms","Egypt",964
+"Firearms","El Salvador",2725
+"Firearms","Equatorial Guinea",1
+"Firearms","Eritrea",2
+"Firearms","Estonia",3
+"Firearms","Ethiopia",63
+"Firearms","Fiji",1
+"Firearms","Finland",1
+"Firearms","France",240
+"Firearms","French Guiana",1
+"Firearms","Gabon",2
+"Firearms","Gambia",1
+"Firearms","Georgia",74
+"Firearms","Germany",38
+"Firearms","Ghana",3
+"Firearms","Greece",72
+"Firearms","Grenada",3
+"Firearms","Guadeloupe",3
+"Firearms","Guatemala",1130
+"Firearms","Guinea",16
+"Firearms","Guinea-Bissau",8
+"Firearms","Guyana",11
+"Firearms","Haiti",118
+"Firearms","Honduras",122
+"Firearms","Hong Kong",5
+"Firearms","Hungary",5
+"Firearms","India",4530
+"Firearms","Indonesia",236
+"Firearms","Iran (Islamic Republic of)",197
+"Firearms","Iraq",4230
+"Firearms","Ireland",55
+"Firearms","Israel",226
+"Firearms","Italy",337
+"Firearms","Jamaica",22
+"Firearms","Japan",16
+"Firearms","Jordan",40
+"Firearms","Kazakhstan",9
+"Firearms","Kenya",256
+"Firearms","Korea, Democratic People's Republic of",3
+"Firearms","Kuwait",22
+"Firearms","Kyrgyzstan",8
+"Firearms","Lao People's Democratic Republic",10
+"Firearms","Latvia",2
+"Firearms","Lebanon",618
+"Firearms","Lesotho",6
+"Firearms","Liberia",18
+"Firearms","Libyan Arab Jamahiriya",754
+"Firearms","Lithuania",2
+"Firearms","Macau",7
+"Firearms","Madagascar",5
+"Firearms","Malawi",1
+"Firearms","Malaysia",32
+"Firearms","Maldives",1
+"Firearms","Mali",238
+"Firearms","Malta",4
+"Firearms","Mauritania",10
+"Firearms","Mauritius",1
+"Firearms","Mexico",267
+"Firearms","Morocco",3
+"Firearms","Mozambique",244
+"Firearms","Namibia",39
+"Firearms","Nepal",215
+"Firearms","Netherlands",23
+"Firearms","New Caledonia",8
+"Firearms","New Zealand",1
+"Firearms","Nicaragua",1469
+"Firearms","Niger",71
+"Firearms","Nigeria",2050
+"Firearms","Norway",4
+"Firearms","Pakistan",5000
+"Firearms","Palestine",728
+"Firearms","Panama",28
+"Firearms","Papua New Guinea",47
+"Firearms","Paraguay",57
+"Firearms","Peru",2295
+"Firearms","Philippines",3582
+"Firearms","Poland",2
+"Firearms","Portugal",15
+"Firearms","Qatar",2
+"Firearms","Republic of Moldova",7
+"Firearms","Romania",2
+"Firearms","Russia",776
+"Firearms","Rwanda",73
+"Firearms","Saudi Arabia",98
+"Firearms","Senegal",76
+"Firearms","Serbia",64
+"Firearms","Seychelles",1
+"Firearms","Sierra Leone",62
+"Firearms","Slovenia",2
+"Firearms","Solomon Islands",3
+"Firearms","Somalia",1432
+"Firearms","South Africa",650
+"Firearms","Spain",722
+"Firearms","Sri Lanka",1343
+"Firearms","Sudan",709
+"Firearms","Suriname",37
+"Firearms","Swaziland",2
+"Firearms","Sweden",10
+"Firearms","Switzerland",15
+"Firearms","Syrian Arab Republic",242
+"Firearms","Taiwan",7
+"Firearms","Tajikistan",104
+"Firearms","Thailand",1550
+"Firearms","The former Yugoslav Republic of Macedonia",78
+"Firearms","Togo",17
+"Firearms","Trinidad and Tobago",7
+"Firearms","Tunisia",40
+"Firearms","Turkey",1589
+"Firearms","Turkmenistan",2
+"Firearms","Uganda",182
+"Firearms","Ukraine",306
+"Firearms","United Arab Emirates",4
+"Firearms","United Kingdom",2001
+"Firearms","United Republic of Tanzania",12
+"Firearms","United States",402
+"Firearms","Uruguay",21
+"Firearms","Uzbekistan",4
+"Firearms","Venezuela",94
+"Firearms","Viet Nam",1
+"Firearms","Western Sahara",1
+"Firearms","Yemen",1101
+"Firearms","Zambia",23
+"Firearms","Zimbabwe",56
+"Melee","Afghanistan",135
+"Melee","Albania",1
+"Melee","Algeria",306
+"Melee","Angola",4
+"Melee","Argentina",12
+"Melee","Armenia",1
+"Melee","Australia",5
+"Melee","Austria",4
+"Melee","Azerbaijan",1
+"Melee","Bahrain",2
+"Melee","Bangladesh",97
+"Melee","Belarus",1
+"Melee","Belgium",12
+"Melee","Belize",1
+"Melee","Brazil",10
+"Melee","Bulgaria",2
+"Melee","Burma",22
+"Melee","Burundi",16
+"Melee","Cambodia",1
+"Melee","Cameroon",9
+"Melee","Canada",11
+"Melee","Central African Republic",8
+"Melee","Chad",2
+"Melee","Chile",9
+"Melee","China",37
+"Melee","Colombia",38
+"Melee","Cuba",4
+"Melee","Cyprus",1
+"Melee","Czech Republic",3
+"Melee","Democratic Republic of the Congo",55
+"Melee","Djibouti",1
+"Melee","Dominica",1
+"Melee","Dominican Republic",5
+"Melee","Ecuador",1
+"Melee","Egypt",42
+"Melee","El Salvador",8
+"Melee","Ethiopia",1
+"Melee","Fiji",1
+"Melee","Finland",2
+"Melee","France",45
+"Melee","French Polynesia",1
+"Melee","Gabon",1
+"Melee","Georgia",3
+"Melee","Germany",88
+"Melee","Ghana",3
+"Melee","Greece",21
+"Melee","Guatemala",17
+"Melee","Guyana",1
+"Melee","Haiti",13
+"Melee","Honduras",4
+"Melee","Hong Kong",2
+"Melee","Hungary",3
+"Melee","India",502
+"Melee","Indonesia",40
+"Melee","Iran (Islamic Republic of)",6
+"Melee","Iraq",71
+"Melee","Ireland",5
+"Melee","Israel",211
+"Melee","Italy",23
+"Melee","Jamaica",3
+"Melee","Japan",28
+"Melee","Jordan",5
+"Melee","Kazakhstan",3
+"Melee","Kenya",31
+"Melee","Korea, Democratic People's Republic of",8
+"Melee","Kuwait",1
+"Melee","Kyrgyzstan",3
+"Melee","Lebanon",13
+"Melee","Liberia",3
+"Melee","Libyan Arab Jamahiriya",35
+"Melee","Macau",2
+"Melee","Madagascar",1
+"Melee","Malaysia",6
+"Melee","Maldives",6
+"Melee","Mali",6
+"Melee","Mauritania",1
+"Melee","Mauritius",1
+"Melee","Mexico",18
+"Melee","Morocco",6
+"Melee","Mozambique",8
+"Melee","Namibia",2
+"Melee","Nepal",24
+"Melee","Netherlands",3
+"Melee","New Zealand",1
+"Melee","Nicaragua",3
+"Melee","Niger",4
+"Melee","Nigeria",71
+"Melee","Norway",2
+"Melee","Pakistan",157
+"Melee","Palestine",431
+"Melee","Panama",1
+"Melee","Papua New Guinea",2
+"Melee","Paraguay",13
+"Melee","Peru",43
+"Melee","Philippines",47
+"Melee","Poland",2
+"Melee","Portugal",1
+"Melee","Qatar",1
+"Melee","Russia",39
+"Melee","Rwanda",10
+"Melee","Saint Kitts and Nevis",1
+"Melee","Saint Lucia",1
+"Melee","Saudi Arabia",3
+"Melee","Senegal",4
+"Melee","Serbia",5
+"Melee","Sierra Leone",2
+"Melee","Singapore",1
+"Melee","Somalia",74
+"Melee","South Africa",67
+"Melee","Spain",16
+"Melee","Sri Lanka",76
+"Melee","Sudan",55
+"Melee","Sweden",4
+"Melee","Switzerland",2
+"Melee","Syrian Arab Republic",28
+"Melee","Taiwan",5
+"Melee","Tajikistan",3
+"Melee","Thailand",28
+"Melee","The former Yugoslav Republic of Macedonia",8
+"Melee","Togo",1
+"Melee","Trinidad and Tobago",3
+"Melee","Tunisia",5
+"Melee","Turkey",42
+"Melee","Uganda",23
+"Melee","Ukraine",23
+"Melee","United Arab Emirates",3
+"Melee","United Kingdom",106
+"Melee","United Republic of Tanzania",5
+"Melee","United States",45
+"Melee","Uruguay",2
+"Melee","Venezuela",2
+"Melee","Viet Nam",2
+"Melee","Yemen",16
+"Melee","Zambia",1
+"Melee","Zimbabwe",6
+"Other","Afghanistan",317
+"Other","Albania",2
+"Other","Algeria",57
+"Other","Angola",14
+"Other","Antigua and Barbuda",1
+"Other","Argentina",44
+"Other","Armenia",1
+"Other","Australia",42
+"Other","Austria",29
+"Other","Azerbaijan",2
+"Other","Bahamas",1
+"Other","Bahrain",70
+"Other","Bangladesh",299
+"Other","Belarus",3
+"Other","Belgium",26
+"Other","Bolivia",8
+"Other","Botswana",1
+"Other","Brazil",21
+"Other","Bulgaria",5
+"Other","Burkina Faso",5
+"Other","Burma",37
+"Other","Burundi",46
+"Other","Cambodia",1
+"Other","Cameroon",28
+"Other","Canada",25
+"Other","Central African Republic",7
+"Other","Chad",2
+"Other","Chile",227
+"Other","China",24
+"Other","Colombia",471
+"Other","Comoros",3
+"Other","Costa Rica",1
+"Other","Cyprus",3
+"Other","Czech Republic",10
+"Other","Democratic Republic of the Congo",66
+"Other","Denmark",8
+"Other","Dominican Republic",9
+"Other","Ecuador",9
+"Other","Egypt",77
+"Other","El Salvador",237
+"Other","Estonia",1
+"Other","Ethiopia",5
+"Other","Fiji",7
+"Other","Finland",13
+"Other","France",194
+"Other","French Guiana",3
+"Other","French Polynesia",2
+"Other","Gabon",1
+"Other","Gambia",1
+"Other","Georgia",3
+"Other","Germany",442
+"Other","Ghana",1
+"Other","Greece",435
+"Other","Guadeloupe",1
+"Other","Guatemala",108
+"Other","Guinea",2
+"Other","Guyana",2
+"Other","Haiti",24
+"Other","Honduras",2
+"Other","Hong Kong",3
+"Other","Hungary",5
+"Other","Iceland",1
+"Other","India",978
+"Other","Indonesia",127
+"Other","Iran (Islamic Republic of)",45
+"Other","Iraq",138
+"Other","Ireland",72
+"Other","Israel",161
+"Other","Italy",440
+"Other","Jamaica",5
+"Other","Japan",195
+"Other","Jordan",9
+"Other","Kazakhstan",4
+"Other","Kenya",37
+"Other","Korea, Democratic People's Republic of",16
+"Other","Kuwait",4
+"Other","Kyrgyzstan",3
+"Other","Latvia",1
+"Other","Lebanon",16
+"Other","Lesotho",3
+"Other","Liberia",5
+"Other","Libyan Arab Jamahiriya",46
+"Other","Macau",9
+"Other","Madagascar",2
+"Other","Malawi",3
+"Other","Malaysia",18
+"Other","Maldives",11
+"Other","Mali",14
+"Other","Malta",6
+"Other","Martinique",3
+"Other","Mexico",30
+"Other","Morocco",1
+"Other","Mozambique",17
+"Other","Namibia",2
+"Other","Nepal",156
+"Other","Netherlands",40
+"Other","New Caledonia",7
+"Other","New Zealand",4
+"Other","Nicaragua",30
+"Other","Niger",10
+"Other","Nigeria",234
+"Other","Norway",5
+"Other","Pakistan",440
+"Other","Palestine",310
+"Other","Panama",14
+"Other","Papua New Guinea",13
+"Other","Paraguay",13
+"Other","Peru",254
+"Other","Philippines",353
+"Other","Poland",5
+"Other","Portugal",6
+"Other","Qatar",1
+"Other","Romania",1
+"Other","Russia",59
+"Other","Saint Kitts and Nevis",1
+"Other","Saudi Arabia",10
+"Other","Senegal",1
+"Other","Serbia",10
+"Other","Sierra Leone",9
+"Other","Singapore",1
+"Other","Somalia",47
+"Other","South Africa",189
+"Other","Spain",386
+"Other","Sri Lanka",164
+"Other","Sudan",56
+"Other","Suriname",7
+"Other","Swaziland",5
+"Other","Sweden",66
+"Other","Switzerland",19
+"Other","Syrian Arab Republic",17
+"Other","Taiwan",23
+"Other","Tajikistan",1
+"Other","Thailand",323
+"Other","The former Yugoslav Republic of Macedonia",15
+"Other","Togo",1
+"Other","Trinidad and Tobago",7
+"Other","Tunisia",9
+"Other","Turkey",299
+"Other","Uganda",18
+"Other","Ukraine",60
+"Other","United Kingdom",764
+"Other","United Republic of Tanzania",12
+"Other","United States",899
+"Other","Uruguay",14
+"Other","Uzbekistan",2
+"Other","Venezuela",31
+"Other","Viet Nam",2
+"Other","Wallis and Futuna Islands",1
+"Other","Western Sahara",1
+"Other","Yemen",18
+"Other","Zambia",3
+"Other","Zimbabwe",14
+"Radiological","Afghanistan",1
+"Radiological","Austria",1
+"Radiological","France",1
+"Radiological","Japan",10
+"Radiological","United States",1
+"Unidentified","Afghanistan",1643
+"Unidentified","Albania",3
+"Unidentified","Algeria",270
+"Unidentified","Angola",78
+"Unidentified","Argentina",110
+"Unidentified","Armenia",1
+"Unidentified","Australia",7
+"Unidentified","Austria",6
+"Unidentified","Azerbaijan",5
+"Unidentified","Bahrain",3
+"Unidentified","Bangladesh",138
+"Unidentified","Belgium",14
+"Unidentified","Belize",2
+"Unidentified","Benin",2
+"Unidentified","Bolivia",26
+"Unidentified","Brazil",56
+"Unidentified","Bulgaria",2
+"Unidentified","Burkina Faso",7
+"Unidentified","Burma",75
+"Unidentified","Burundi",70
+"Unidentified","Cambodia",37
+"Unidentified","Cameroon",77
+"Unidentified","Canada",3
+"Unidentified","Central African Republic",64
+"Unidentified","Chad",21
+"Unidentified","Chile",97
+"Unidentified","China",18
+"Unidentified","Colombia",1229
+"Unidentified","Costa Rica",9
+"Unidentified","Croatia",1
+"Unidentified","Cuba",8
+"Unidentified","Cyprus",6
+"Unidentified","Czech Republic",2
+"Unidentified","Democratic Republic of the Congo",289
+"Unidentified","Denmark",10
+"Unidentified","Djibouti",3
+"Unidentified","Dominican Republic",7
+"Unidentified","Ecuador",28
+"Unidentified","Egypt",131
+"Unidentified","El Salvador",355
+"Unidentified","Equatorial Guinea",1
+"Unidentified","Eritrea",4
+"Unidentified","Estonia",4
+"Unidentified","Ethiopia",44
+"Unidentified","Fiji",2
+"Unidentified","France",183
+"Unidentified","Gambia",1
+"Unidentified","Georgia",13
+"Unidentified","Germany",77
+"Unidentified","Ghana",3
+"Unidentified","Greece",31
+"Unidentified","Guadeloupe",7
+"Unidentified","Guatemala",351
+"Unidentified","Guinea",5
+"Unidentified","Guyana",3
+"Unidentified","Haiti",21
+"Unidentified","Honduras",34
+"Unidentified","Hong Kong",6
+"Unidentified","Hungary",1
+"Unidentified","Iceland",1
+"Unidentified","India",908
+"Unidentified","Indonesia",56
+"Unidentified","Iran (Islamic Republic of)",85
+"Unidentified","Iraq",1225
+"Unidentified","Ireland",8
+"Unidentified","Israel",48
+"Unidentified","Italy",96
+"Unidentified","Jamaica",3
+"Unidentified","Japan",13
+"Unidentified","Jordan",8
+"Unidentified","Kazakhstan",4
+"Unidentified","Kenya",36
+"Unidentified","Korea, Democratic People's Republic of",7
+"Unidentified","Kuwait",10
+"Unidentified","Kyrgyzstan",3
+"Unidentified","Lao People's Democratic Republic",3
+"Unidentified","Lebanon",207
+"Unidentified","Lesotho",5
+"Unidentified","Liberia",4
+"Unidentified","Libyan Arab Jamahiriya",375
+"Unidentified","Luxembourg",1
+"Unidentified","Madagascar",6
+"Unidentified","Malawi",1
+"Unidentified","Malaysia",4
+"Unidentified","Maldives",1
+"Unidentified","Mali",93
+"Unidentified","Mauritania",4
+"Unidentified","Mexico",96
+"Unidentified","Montenegro",1
+"Unidentified","Morocco",9
+"Unidentified","Mozambique",39
+"Unidentified","Namibia",23
+"Unidentified","Nepal",141
+"Unidentified","Netherlands",11
+"Unidentified","New Caledonia",3
+"Unidentified","Nicaragua",197
+"Unidentified","Niger",38
+"Unidentified","Nigeria",217
+"Unidentified","Norway",4
+"Unidentified","Pakistan",667
+"Unidentified","Palestine",82
+"Unidentified","Panama",10
+"Unidentified","Papua New Guinea",16
+"Unidentified","Paraguay",13
+"Unidentified","Peru",444
+"Unidentified","Philippines",576
+"Unidentified","Poland",3
+"Unidentified","Portugal",9
+"Unidentified","Qatar",1
+"Unidentified","Republic of Moldova",2
+"Unidentified","Russia",74
+"Unidentified","Rwanda",25
+"Unidentified","Saudi Arabia",10
+"Unidentified","Senegal",17
+"Unidentified","Serbia",5
+"Unidentified","Sierra Leone",21
+"Unidentified","Singapore",1
+"Unidentified","Solomon Islands",1
+"Unidentified","Somalia",610
+"Unidentified","South Africa",160
+"Unidentified","Spain",189
+"Unidentified","Sri Lanka",290
+"Unidentified","Sudan",260
+"Unidentified","Suriname",13
+"Unidentified","Swaziland",2
+"Unidentified","Sweden",8
+"Unidentified","Switzerland",9
+"Unidentified","Syrian Arab Republic",304
+"Unidentified","Taiwan",3
+"Unidentified","Tajikistan",18
+"Unidentified","Thailand",39
+"Unidentified","The former Yugoslav Republic of Macedonia",16
+"Unidentified","Togo",5
+"Unidentified","Trinidad and Tobago",1
+"Unidentified","Tunisia",7
+"Unidentified","Turkey",303
+"Unidentified","Uganda",87
+"Unidentified","Ukraine",158
+"Unidentified","United Arab Emirates",2
+"Unidentified","United Kingdom",137
+"Unidentified","United Republic of Tanzania",3
+"Unidentified","United States",39
+"Unidentified","Uruguay",15
+"Unidentified","Uzbekistan",1
+"Unidentified","Vanuatu",2
+"Unidentified","Venezuela",59
+"Unidentified","Viet Nam",1
+"Unidentified","Western Sahara",2
+"Unidentified","Yemen",640
+"Unidentified","Zambia",2
+"Unidentified","Zimbabwe",30

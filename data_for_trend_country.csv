@@ -1,0 +1,3609 @@
+"year","country_name","Freq","kills"
+1970,"Argentina",21,NA
+1970,"Australia",1,0
+1970,"Belgium",1,0
+1970,"Bolivia",1,0
+1970,"Brazil",6,2
+1970,"Canada",2,1
+1970,"Colombia",1,NA
+1970,"Dominican Republic",2,1
+1970,"Egypt",1,0
+1970,"Ethiopia",3,1
+1970,"Greece",3,NA
+1970,"Guatemala",4,NA
+1970,"Iran (Islamic Republic of)",5,NA
+1970,"Ireland",1,1
+1970,"Italy",3,0
+1970,"Japan",2,NA
+1970,"Jordan",9,NA
+1970,"Lebanon",1,0
+1970,"Mexico",2,0
+1970,"Netherlands",3,NA
+1970,"Nicaragua",1,0
+1970,"Pakistan",1,4
+1970,"Paraguay",1,1
+1970,"Philippines",10,41
+1970,"Spain",4,NA
+1970,"Switzerland",3,NA
+1970,"Turkey",12,NA
+1970,"United Kingdom",12,20
+1970,"United States",468,NA
+1970,"Uruguay",33,NA
+1970,"Venezuela",2,0
+1971,"Argentina",7,NA
+1971,"Australia",1,0
+1971,"Bolivia",2,NA
+1971,"Brazil",3,0
+1971,"Cambodia",2,2
+1971,"Costa Rica",1,NA
+1971,"Dominican Republic",3,0
+1971,"Egypt",1,1
+1971,"Ethiopia",1,0
+1971,"Greece",1,0
+1971,"Guatemala",1,NA
+1971,"Iran (Islamic Republic of)",11,NA
+1971,"Ireland",1,1
+1971,"Israel",1,1
+1971,"Italy",3,NA
+1971,"Jordan",5,NA
+1971,"Lebanon",1,NA
+1971,"Netherlands",1,0
+1971,"Philippines",4,NA
+1971,"Poland",1,0
+1971,"Spain",22,NA
+1971,"Sweden",2,1
+1971,"Switzerland",1,0
+1971,"Taiwan",1,25
+1971,"Turkey",35,NA
+1971,"United Kingdom",81,110
+1971,"United States",247,NA
+1971,"Uruguay",8,NA
+1971,"Venezuela",4,0
+1971,"Yemen",1,0
+1971,"Zambia",1,1
+1972,"Algeria",1,0
+1972,"Argentina",20,NA
+1972,"Australia",8,1
+1972,"Austria",7,NA
+1972,"Belgium",4,0
+1972,"Brazil",3,0
+1972,"Brunei Darussalam",5,0
+1972,"Cambodia",2,1
+1972,"Canada",4,1
+1972,"Colombia",2,1
+1972,"Democratic Republic of the Congo",4,0
+1972,"Egypt",1,0
+1972,"El Salvador",2,0
+1972,"France",11,1
+1972,"Greece",2,0
+1972,"India",1,0
+1972,"Iran (Islamic Republic of)",15,NA
+1972,"Ireland",5,6
+1972,"Israel",15,26
+1972,"Italy",4,1
+1972,"Jordan",7,2
+1972,"Kuwait",1,0
+1972,"Lebanon",3,0
+1972,"Mexico",1,0
+1972,"Netherlands",1,0
+1972,"Palestine",1,1
+1972,"Panama",1,0
+1972,"Philippines",7,NA
+1972,"Portugal",1,0
+1972,"Spain",19,NA
+1972,"Sweden",3,NA
+1972,"Switzerland",3,0
+1972,"Thailand",1,0
+1972,"Turkey",9,NA
+1972,"United Kingdom",292,368
+1972,"United States",68,10
+1972,"Uruguay",7,0
+1972,"Venezuela",1,NA
+1972,"Viet Nam",1,81
+1973,"Afghanistan",1,0
+1973,"Argentina",60,NA
+1973,"Austria",2,0
+1973,"Belgium",1,0
+1973,"Brazil",2,0
+1973,"Burma",1,0
+1973,"Chile",7,NA
+1973,"Colombia",6,NA
+1973,"Cyprus",3,1
+1973,"Democratic Republic of the Congo",1,0
+1973,"Dominican Republic",3,0
+1973,"Ecuador",1,0
+1973,"El Salvador",1,0
+1973,"Ethiopia",1,0
+1973,"France",14,NA
+1973,"Greece",11,5
+1973,"Haiti",1,0
+1973,"Honduras",1,NA
+1973,"Iran (Islamic Republic of)",4,NA
+1973,"Ireland",3,4
+1973,"Israel",1,2
+1973,"Italy",15,62
+1973,"Japan",2,0
+1973,"Jordan",1,NA
+1973,"Lebanon",11,NA
+1973,"Malaysia",1,0
+1973,"Mexico",6,NA
+1973,"Morocco",2,0
+1973,"Netherlands",1,1
+1973,"New Zealand",1,0
+1973,"Peru",3,0
+1973,"Portugal",1,0
+1973,"Spain",21,NA
+1973,"Sudan",1,3
+1973,"Switzerland",2,NA
+1973,"United Kingdom",189,NA
+1973,"United States",58,45
+1973,"Venezuela",4,NA
+1973,"Zambia",1,2
+1974,"Argentina",71,NA
+1974,"Australia",1,0
+1974,"Austria",1,0
+1974,"Belgium",5,0
+1974,"Bolivia",1,0
+1974,"Botswana",1,1
+1974,"Canada",1,0
+1974,"Chad",1,0
+1974,"Dominican Republic",2,0
+1974,"Ecuador",3,0
+1974,"El Salvador",3,NA
+1974,"Ethiopia",4,NA
+1974,"France",29,NA
+1974,"Greece",6,92
+1974,"Guatemala",1,0
+1974,"Haiti",2,0
+1974,"Iran (Islamic Republic of)",11,NA
+1974,"Ireland",3,34
+1974,"Israel",12,78
+1974,"Italy",22,NA
+1974,"Jamaica",2,0
+1974,"Japan",3,0
+1974,"Korea, Democratic People's Republic of",1,1
+1974,"Kuwait",1,0
+1974,"Lebanon",11,NA
+1974,"Mexico",16,NA
+1974,"Netherlands",2,1
+1974,"Nicaragua",1,0
+1974,"Pakistan",2,0
+1974,"Peru",3,NA
+1974,"Philippines",1,3
+1974,"Singapore",1,0
+1974,"South Africa",1,0
+1974,"Spain",14,NA
+1974,"Switzerland",3,NA
+1974,"Syrian Arab Republic",4,1
+1974,"Thailand",1,2
+1974,"Turkey",1,0
+1974,"United Arab Emirates",1,1
+1974,"United Kingdom",203,NA
+1974,"United States",94,NA
+1974,"Venezuela",3,0
+1975,"Argentina",38,NA
+1975,"Austria",2,4
+1975,"Colombia",10,NA
+1975,"Cyprus",2,0
+1975,"El Salvador",3,2
+1975,"Ethiopia",4,0
+1975,"France",39,NA
+1975,"Greece",4,NA
+1975,"Guatemala",5,23
+1975,"India",1,4
+1975,"Iran (Islamic Republic of)",13,NA
+1975,"Iraq",1,0
+1975,"Ireland",7,7
+1975,"Israel",2,24
+1975,"Italy",7,0
+1975,"Japan",12,NA
+1975,"Kenya",4,27
+1975,"Kuwait",1,0
+1975,"Lebanon",15,NA
+1975,"Malaysia",3,NA
+1975,"Mexico",10,32
+1975,"Namibia",1,1
+1975,"Netherlands",4,NA
+1975,"Nicaragua",1,11
+1975,"Pakistan",2,NA
+1975,"Peru",2,0
+1975,"Philippines",4,NA
+1975,"Portugal",4,0
+1975,"Somalia",1,0
+1975,"Spain",136,NA
+1975,"Sri Lanka",1,1
+1975,"Sweden",1,3
+1975,"Switzerland",3,0
+1975,"Syrian Arab Republic",2,0
+1975,"Turkey",10,NA
+1975,"United Kingdom",194,NA
+1975,"United Republic of Tanzania",1,0
+1975,"United States",149,NA
+1975,"Venezuela",5,0
+1975,"Zambia",1,1
+1976,"Algeria",1,NA
+1976,"Argentina",54,NA
+1976,"Austria",4,NA
+1976,"Bahamas",1,0
+1976,"Barbados",2,73
+1976,"Belgium",1,0
+1976,"Bolivia",1,0
+1976,"Brazil",5,NA
+1976,"Burma",2,NA
+1976,"Chile",2,0
+1976,"Colombia",22,NA
+1976,"Costa Rica",12,NA
+1976,"Ecuador",2,1
+1976,"El Salvador",13,NA
+1976,"Ethiopia",5,0
+1976,"France",58,NA
+1976,"Greece",21,NA
+1976,"Guatemala",13,NA
+1976,"India",1,0
+1976,"Iran (Islamic Republic of)",4,5
+1976,"Iraq",3,12
+1976,"Ireland",5,NA
+1976,"Israel",2,1
+1976,"Italy",173,NA
+1976,"Jamaica",1,0
+1976,"Japan",1,2
+1976,"Jordan",1,9
+1976,"Kenya",2,0
+1976,"Kuwait",1,0
+1976,"Lebanon",4,NA
+1976,"Mexico",20,NA
+1976,"Morocco",1,NA
+1976,"Namibia",2,3
+1976,"Netherlands",3,0
+1976,"Nigeria",1,3
+1976,"Pakistan",3,1
+1976,"Palestine",1,2
+1976,"Panama",2,0
+1976,"Paraguay",1,1
+1976,"Philippines",10,NA
+1976,"Portugal",15,NA
+1976,"South Africa",1,2
+1976,"Spain",50,NA
+1976,"Switzerland",4,NA
+1976,"Syrian Arab Republic",2,5
+1976,"Taiwan",1,0
+1976,"Trinidad and Tobago",1,NA
+1976,"Turkey",35,NA
+1976,"United Kingdom",194,264
+1976,"United States",105,NA
+1976,"Venezuela",4,NA
+1977,"Angola",1,NA
+1977,"Argentina",17,NA
+1977,"Austria",5,NA
+1977,"Bangladesh",1,0
+1977,"Belgium",1,0
+1977,"Bolivia",1,0
+1977,"Brazil",1,0
+1977,"Chile",6,NA
+1977,"Colombia",80,NA
+1977,"Costa Rica",5,0
+1977,"Cyprus",1,0
+1977,"Democratic Republic of the Congo",3,NA
+1977,"Djibouti",1,1
+1977,"Ecuador",7,NA
+1977,"Egypt",1,1
+1977,"El Salvador",6,NA
+1977,"Ethiopia",4,5
+1977,"France",53,NA
+1977,"Greece",47,NA
+1977,"Guatemala",8,NA
+1977,"India",1,0
+1977,"Indonesia",1,1
+1977,"Iran (Islamic Republic of)",5,NA
+1977,"Ireland",3,2
+1977,"Israel",6,5
+1977,"Italy",308,NA
+1977,"Japan",4,NA
+1977,"Lebanon",4,3
+1977,"Malaysia",2,100
+1977,"Malta",1,1
+1977,"Mauritania",4,NA
+1977,"Mexico",19,NA
+1977,"Netherlands",6,9
+1977,"Nicaragua",5,NA
+1977,"Peru",4,NA
+1977,"Philippines",2,NA
+1977,"Portugal",15,NA
+1977,"Saudi Arabia",1,NA
+1977,"South Africa",15,NA
+1977,"Spain",147,NA
+1977,"Switzerland",4,NA
+1977,"Syrian Arab Republic",3,NA
+1977,"Thailand",3,1
+1977,"Turkey",189,NA
+1977,"United Arab Emirates",1,1
+1977,"United Kingdom",140,NA
+1977,"United States",130,NA
+1977,"Venezuela",3,1
+1977,"Zambia",1,1
+1978,"Algeria",1,0
+1978,"Angola",2,0
+1978,"Argentina",25,NA
+1978,"Australia",2,2
+1978,"Austria",1,NA
+1978,"Belgium",8,NA
+1978,"Bolivia",3,0
+1978,"Brazil",5,NA
+1978,"Cambodia",1,1
+1978,"Chile",8,0
+1978,"Colombia",158,NA
+1978,"Costa Rica",2,0
+1978,"Cyprus",2,NA
+1978,"Denmark",1,0
+1978,"Dominican Republic",1,3
+1978,"Ecuador",11,NA
+1978,"Egypt",2,2
+1978,"El Salvador",91,NA
+1978,"Ethiopia",2,25
+1978,"France",59,NA
+1978,"Greece",39,0
+1978,"Guatemala",29,NA
+1978,"Guyana",1,5
+1978,"Indonesia",2,NA
+1978,"Iran (Islamic Republic of)",27,NA
+1978,"Ireland",3,1
+1978,"Israel",23,NA
+1978,"Italy",277,NA
+1978,"Japan",35,NA
+1978,"Kenya",1,4
+1978,"Kuwait",1,1
+1978,"Lebanon",12,NA
+1978,"Mexico",30,NA
+1978,"Morocco",1,10
+1978,"Mozambique",2,2
+1978,"Namibia",8,NA
+1978,"Netherlands",3,1
+1978,"Nicaragua",76,NA
+1978,"Pakistan",2,5
+1978,"Palestine",4,6
+1978,"Peru",4,NA
+1978,"Philippines",36,NA
+1978,"Portugal",4,NA
+1978,"South Africa",9,NA
+1978,"Spain",209,NA
+1978,"Sweden",1,0
+1978,"Switzerland",3,NA
+1978,"Syrian Arab Republic",1,NA
+1978,"Thailand",5,29
+1978,"Turkey",52,NA
+1978,"United Arab Emirates",1,5
+1978,"United Kingdom",100,NA
+1978,"United States",87,NA
+1978,"Venezuela",7,NA
+1978,"Western Sahara",1,0
+1978,"Zambia",3,NA
+1978,"Zimbabwe",19,NA
+1979,"Afghanistan",3,53
+1979,"Algeria",1,NA
+1979,"Angola",3,NA
+1979,"Argentina",16,NA
+1979,"Australia",2,0
+1979,"Austria",5,0
+1979,"Bahrain",1,0
+1979,"Bangladesh",1,0
+1979,"Belgium",8,1
+1979,"Bolivia",14,NA
+1979,"Brazil",6,4
+1979,"Burma",19,86
+1979,"Chile",49,NA
+1979,"Colombia",140,NA
+1979,"Costa Rica",2,3
+1979,"Cyprus",5,2
+1979,"Denmark",3,0
+1979,"Djibouti",1,4
+1979,"Dominican Republic",2,1
+1979,"Ecuador",2,0
+1979,"Egypt",1,1
+1979,"El Salvador",326,NA
+1979,"Ethiopia",4,NA
+1979,"France",212,NA
+1979,"Gabon",1,2
+1979,"Greece",9,NA
+1979,"Guatemala",60,NA
+1979,"Guyana",2,1
+1979,"Honduras",6,1
+1979,"India",20,NA
+1979,"Iran (Islamic Republic of)",82,NA
+1979,"Iraq",2,NA
+1979,"Ireland",8,9
+1979,"Israel",130,NA
+1979,"Italy",209,NA
+1979,"Jamaica",2,4
+1979,"Japan",16,NA
+1979,"Lebanon",38,NA
+1979,"Lesotho",2,0
+1979,"Libyan Arab Jamahiriya",3,0
+1979,"Malaysia",1,5
+1979,"Mexico",10,NA
+1979,"Morocco",2,0
+1979,"Mozambique",5,NA
+1979,"Namibia",31,NA
+1979,"Netherlands",3,3
+1979,"Nicaragua",206,NA
+1979,"Norway",1,0
+1979,"Pakistan",7,NA
+1979,"Palestine",22,NA
+1979,"Panama",4,1
+1979,"Peru",3,NA
+1979,"Philippines",50,NA
+1979,"Poland",1,0
+1979,"Portugal",15,3
+1979,"Saudi Arabia",1,5
+1979,"South Africa",16,NA
+1979,"Spain",279,NA
+1979,"Sri Lanka",3,2
+1979,"Sweden",1,1
+1979,"Switzerland",6,1
+1979,"Syrian Arab Republic",28,NA
+1979,"Thailand",16,62
+1979,"Trinidad and Tobago",1,0
+1979,"Tunisia",1,0
+1979,"Turkey",141,NA
+1979,"Uganda",8,13
+1979,"United Arab Emirates",2,NA
+1979,"United Kingdom",239,NA
+1979,"United Republic of Tanzania",1,1
+1979,"United States",69,NA
+1979,"Venezuela",4,NA
+1979,"Zambia",1,0
+1979,"Zimbabwe",51,NA
+1980,"Argentina",6,0
+1980,"Australia",6,NA
+1980,"Austria",2,0
+1980,"Bahrain",1,0
+1980,"Bangladesh",1,6
+1980,"Belgium",8,NA
+1980,"Belize",1,0
+1980,"Bolivia",35,NA
+1980,"Brazil",19,NA
+1980,"Burma",1,6
+1980,"Canada",3,0
+1980,"Chile",41,NA
+1980,"Colombia",141,NA
+1980,"Costa Rica",3,0
+1980,"Cyprus",1,3
+1980,"Denmark",1,NA
+1980,"Dominican Republic",1,1
+1980,"Ecuador",2,2
+1980,"Egypt",5,1
+1980,"El Salvador",710,NA
+1980,"France",94,NA
+1980,"Greece",15,NA
+1980,"Grenada",4,9
+1980,"Guadeloupe",9,1
+1980,"Guatemala",281,NA
+1980,"Guinea",2,1
+1980,"Guyana",1,1
+1980,"Honduras",16,NA
+1980,"Hong Kong",1,0
+1980,"India",10,17
+1980,"Iran (Islamic Republic of)",67,NA
+1980,"Iraq",6,8
+1980,"Ireland",7,12
+1980,"Israel",79,NA
+1980,"Italy",110,NA
+1980,"Jamaica",6,11
+1980,"Jordan",1,1
+1980,"Kenya",1,15
+1980,"Kuwait",4,0
+1980,"Lebanon",86,NA
+1980,"Libyan Arab Jamahiriya",2,0
+1980,"Mexico",5,NA
+1980,"Namibia",2,2
+1980,"Netherlands",1,0
+1980,"Nicaragua",35,NA
+1980,"Nigeria",1,NA
+1980,"Pakistan",1,17
+1980,"Palestine",56,NA
+1980,"Panama",4,0
+1980,"Paraguay",2,3
+1980,"Peru",64,NA
+1980,"Philippines",60,NA
+1980,"Portugal",8,NA
+1980,"Senegal",1,0
+1980,"Somalia",1,1
+1980,"South Africa",23,NA
+1980,"Spain",187,NA
+1980,"Switzerland",7,0
+1980,"Syrian Arab Republic",33,NA
+1980,"Thailand",26,NA
+1980,"Tunisia",1,41
+1980,"Turkey",95,NA
+1980,"United Arab Emirates",1,1
+1980,"United Kingdom",134,NA
+1980,"United States",67,NA
+1980,"Venezuela",8,3
+1980,"Zimbabwe",27,NA
+1981,"Albania",1,0
+1981,"Angola",1,3
+1981,"Argentina",2,0
+1981,"Australia",1,1
+1981,"Austria",3,3
+1981,"Bahamas",1,0
+1981,"Bangladesh",1,6
+1981,"Belgium",6,6
+1981,"Bolivia",5,NA
+1981,"Brazil",11,NA
+1981,"Central African Republic",1,3
+1981,"Chile",34,NA
+1981,"Colombia",172,NA
+1981,"Costa Rica",10,NA
+1981,"Cyprus",3,0
+1981,"Denmark",6,NA
+1981,"Dominica",2,NA
+1981,"Ecuador",2,2
+1981,"Egypt",9,67
+1981,"El Salvador",664,NA
+1981,"France",66,NA
+1981,"Greece",20,3
+1981,"Guadeloupe",1,0
+1981,"Guatemala",399,NA
+1981,"Guyana",1,1
+1981,"Honduras",17,NA
+1981,"Hong Kong",3,0
+1981,"India",16,NA
+1981,"Indonesia",1,4
+1981,"Iran (Islamic Republic of)",108,NA
+1981,"Iraq",3,NA
+1981,"Ireland",5,2
+1981,"Israel",36,NA
+1981,"Italy",70,NA
+1981,"Jamaica",1,5
+1981,"Japan",1,0
+1981,"Jordan",2,0
+1981,"Kuwait",3,2
+1981,"Lebanon",81,NA
+1981,"Lesotho",5,10
+1981,"Martinique",1,0
+1981,"Mexico",3,0
+1981,"Mozambique",3,NA
+1981,"Netherlands",1,0
+1981,"New Zealand",2,0
+1981,"Nicaragua",47,NA
+1981,"Norway",1,0
+1981,"Pakistan",4,NA
+1981,"Palestine",17,NA
+1981,"Panama",4,NA
+1981,"Peru",149,NA
+1981,"Philippines",31,NA
+1981,"Poland",1,0
+1981,"Portugal",10,NA
+1981,"Seychelles",2,0
+1981,"Somalia",8,NA
+1981,"South Africa",42,NA
+1981,"Spain",107,NA
+1981,"Sri Lanka",2,3
+1981,"Sudan",1,2
+1981,"Switzerland",13,NA
+1981,"Syrian Arab Republic",41,NA
+1981,"Thailand",18,NA
+1981,"Trinidad and Tobago",1,NA
+1981,"Turkey",8,11
+1981,"Uganda",25,NA
+1981,"United Arab Emirates",3,2
+1981,"United Kingdom",142,NA
+1981,"United States",74,NA
+1981,"Venezuela",7,NA
+1981,"Zambia",1,0
+1981,"Zimbabwe",9,13
+1982,"Angola",2,2
+1982,"Argentina",9,1
+1982,"Australia",2,NA
+1982,"Austria",11,NA
+1982,"Bangladesh",1,0
+1982,"Belgium",1,0
+1982,"Bolivia",27,NA
+1982,"Brazil",4,27
+1982,"Bulgaria",2,2
+1982,"Burma",2,NA
+1982,"Canada",5,NA
+1982,"Chile",21,NA
+1982,"Colombia",222,NA
+1982,"Costa Rica",6,4
+1982,"Cyprus",1,0
+1982,"Democratic Republic of the Congo",1,15
+1982,"Dominican Republic",2,NA
+1982,"Ecuador",3,1
+1982,"Egypt",1,0
+1982,"El Salvador",537,NA
+1982,"France",62,NA
+1982,"Greece",19,2
+1982,"Guatemala",354,NA
+1982,"Honduras",34,NA
+1982,"India",13,64
+1982,"Iran (Islamic Republic of)",26,139
+1982,"Iraq",5,NA
+1982,"Ireland",4,2
+1982,"Israel",71,NA
+1982,"Italy",23,12
+1982,"Japan",2,0
+1982,"Jordan",1,0
+1982,"Korea, Democratic People's Republic of",1,1
+1982,"Kuwait",1,0
+1982,"Lebanon",120,NA
+1982,"Lesotho",2,0
+1982,"Mexico",3,1
+1982,"Mozambique",9,NA
+1982,"Namibia",2,2
+1982,"Netherlands",2,0
+1982,"Nicaragua",63,NA
+1982,"Pakistan",4,NA
+1982,"Palestine",39,NA
+1982,"Peru",350,NA
+1982,"Philippines",38,NA
+1982,"Portugal",3,3
+1982,"Qatar",1,1
+1982,"South Africa",26,NA
+1982,"Spain",146,NA
+1982,"Sri Lanka",2,7
+1982,"Sudan",3,NA
+1982,"Suriname",1,0
+1982,"Swaziland",1,0
+1982,"Switzerland",6,NA
+1982,"Syrian Arab Republic",20,NA
+1982,"Thailand",3,NA
+1982,"Turkey",5,9
+1982,"Uganda",1,NA
+1982,"United Kingdom",95,NA
+1982,"United Republic of Tanzania",1,0
+1982,"United States",78,NA
+1982,"Venezuela",2,30
+1982,"Zimbabwe",12,NA
+1983,"Angola",7,NA
+1983,"Argentina",18,1
+1983,"Belgium",8,NA
+1983,"Bolivia",27,NA
+1983,"Brazil",8,NA
+1983,"Burma",4,21
+1983,"Canada",1,0
+1983,"Chile",106,NA
+1983,"Colombia",234,NA
+1983,"Costa Rica",3,NA
+1983,"Cyprus",2,0
+1983,"Ecuador",10,NA
+1983,"El Salvador",371,NA
+1983,"Ethiopia",3,NA
+1983,"France",121,NA
+1983,"French Guiana",3,NA
+1983,"Greece",11,4
+1983,"Grenada",1,0
+1983,"Guadeloupe",17,NA
+1983,"Guatemala",117,NA
+1983,"Haiti",6,5
+1983,"Honduras",29,NA
+1983,"Iceland",1,0
+1983,"India",47,NA
+1983,"Iran (Islamic Republic of)",10,0
+1983,"Iraq",3,NA
+1983,"Ireland",4,5
+1983,"Israel",31,NA
+1983,"Italy",7,NA
+1983,"Japan",12,NA
+1983,"Jordan",7,0
+1983,"Korea, Democratic People's Republic of",1,1
+1983,"Kuwait",7,NA
+1983,"Lebanon",234,NA
+1983,"Lesotho",12,NA
+1983,"Luxembourg",2,0
+1983,"Malaysia",1,0
+1983,"Martinique",5,NA
+1983,"Mexico",2,0
+1983,"Mozambique",4,NA
+1983,"Namibia",5,NA
+1983,"Netherlands",2,NA
+1983,"Nicaragua",299,NA
+1983,"Nigeria",3,1
+1983,"Pakistan",9,10
+1983,"Palestine",34,NA
+1983,"Panama",9,NA
+1983,"Peru",536,NA
+1983,"Philippines",16,101
+1983,"Portugal",9,NA
+1983,"Somalia",1,NA
+1983,"South Africa",56,NA
+1983,"Spain",122,NA
+1983,"Sri Lanka",7,NA
+1983,"Sudan",3,NA
+1983,"Suriname",1,0
+1983,"Sweden",1,1
+1983,"Switzerland",3,NA
+1983,"Syrian Arab Republic",1,1
+1983,"Thailand",1,0
+1983,"Trinidad and Tobago",1,0
+1983,"Turkey",5,2
+1983,"Uganda",6,121
+1983,"United Arab Emirates",1,111
+1983,"United Kingdom",177,NA
+1983,"United States",44,NA
+1983,"Venezuela",6,NA
+1983,"Yemen",1,0
+1983,"Zimbabwe",6,11
+1984,"Angola",11,NA
+1984,"Argentina",46,NA
+1984,"Austria",4,2
+1984,"Bangladesh",1,1
+1984,"Belgium",10,0
+1984,"Bolivia",14,NA
+1984,"Brazil",5,NA
+1984,"Bulgaria",1,NA
+1984,"Burkina Faso",1,1
+1984,"Chad",1,0
+1984,"Chile",563,NA
+1984,"Colombia",237,NA
+1984,"Costa Rica",2,0
+1984,"Cyprus",7,6
+1984,"Democratic Republic of the Congo",3,2
+1984,"Ecuador",24,1
+1984,"El Salvador",273,NA
+1984,"Ethiopia",1,200
+1984,"France",145,NA
+1984,"Greece",28,NA
+1984,"Guadeloupe",14,NA
+1984,"Guatemala",74,NA
+1984,"Honduras",12,NA
+1984,"India",159,NA
+1984,"Indonesia",2,2
+1984,"Iran (Islamic Republic of)",17,29
+1984,"Iraq",2,0
+1984,"Ireland",1,1
+1984,"Israel",25,NA
+1984,"Italy",14,23
+1984,"Japan",15,0
+1984,"Jordan",5,1
+1984,"Kuwait",1,4
+1984,"Lebanon",166,NA
+1984,"Lesotho",1,1
+1984,"Libyan Arab Jamahiriya",3,NA
+1984,"Malta",7,0
+1984,"Martinique",2,NA
+1984,"Mexico",4,13
+1984,"Mozambique",10,NA
+1984,"Namibia",24,NA
+1984,"Netherlands",1,0
+1984,"New Caledonia",10,11
+1984,"New Zealand",1,1
+1984,"Nicaragua",302,NA
+1984,"Pakistan",3,NA
+1984,"Palestine",26,NA
+1984,"Panama",2,0
+1984,"Paraguay",2,1
+1984,"Peru",592,NA
+1984,"Philippines",43,262
+1984,"Portugal",14,3
+1984,"Romania",1,1
+1984,"Saudi Arabia",2,0
+1984,"Somalia",2,0
+1984,"South Africa",60,NA
+1984,"Spain",143,NA
+1984,"Sri Lanka",81,NA
+1984,"Sudan",5,NA
+1984,"Suriname",1,0
+1984,"Swaziland",1,1
+1984,"Switzerland",1,0
+1984,"Syrian Arab Republic",1,0
+1984,"Thailand",1,NA
+1984,"Turkey",19,27
+1984,"Uganda",3,NA
+1984,"United Kingdom",145,NA
+1984,"United States",63,3
+1984,"Uruguay",4,0
+1984,"Venezuela",4,2
+1984,"Western Sahara",1,NA
+1984,"Zimbabwe",3,4
+1985,"Angola",6,NA
+1985,"Argentina",43,NA
+1985,"Austria",4,4
+1985,"Bangladesh",1,0
+1985,"Belgium",21,NA
+1985,"Bolivia",13,0
+1985,"Botswana",1,0
+1985,"Brazil",1,0
+1985,"Canada",3,331
+1985,"Chad",1,0
+1985,"Chile",232,NA
+1985,"Colombia",382,NA
+1985,"Costa Rica",5,NA
+1985,"Cyprus",7,3
+1985,"Denmark",4,1
+1985,"Ecuador",12,NA
+1985,"Egypt",2,2
+1985,"El Salvador",436,NA
+1985,"Ethiopia",1,0
+1985,"France",106,NA
+1985,"Greece",35,NA
+1985,"Guadeloupe",9,2
+1985,"Guatemala",63,NA
+1985,"Honduras",9,7
+1985,"India",39,NA
+1985,"Indonesia",2,7
+1985,"Iran (Islamic Republic of)",3,22
+1985,"Ireland",2,2
+1985,"Israel",21,NA
+1985,"Italy",11,19
+1985,"Japan",10,2
+1985,"Kuwait",2,11
+1985,"Lebanon",95,NA
+1985,"Luxembourg",10,0
+1985,"Malta",1,0
+1985,"Mexico",1,0
+1985,"Morocco",2,0
+1985,"Mozambique",5,NA
+1985,"Namibia",8,74
+1985,"Nepal",9,6
+1985,"Netherlands",4,0
+1985,"New Caledonia",7,0
+1985,"Nicaragua",258,NA
+1985,"Niger",1,3
+1985,"Pakistan",2,NA
+1985,"Palestine",1,0
+1985,"Paraguay",1,0
+1985,"Peru",352,NA
+1985,"Philippines",124,NA
+1985,"Portugal",20,NA
+1985,"Romania",1,2
+1985,"Saudi Arabia",2,1
+1985,"Singapore",1,0
+1985,"South Africa",106,NA
+1985,"Spain",114,NA
+1985,"Sri Lanka",110,NA
+1985,"Switzerland",7,0
+1985,"Syrian Arab Republic",1,30
+1985,"Thailand",1,0
+1985,"Togo",3,1
+1985,"Turkey",2,1
+1985,"Uganda",7,32
+1985,"United Arab Emirates",2,0
+1985,"United Kingdom",67,NA
+1985,"United States",40,3
+1985,"Uruguay",2,0
+1985,"Venezuela",2,0
+1985,"Zambia",1,0
+1985,"Zimbabwe",1,5
+1986,"Angola",5,119
+1986,"Argentina",33,NA
+1986,"Australia",2,1
+1986,"Austria",4,0
+1986,"Bangladesh",11,NA
+1986,"Belgium",3,0
+1986,"Bolivia",4,NA
+1986,"Brazil",3,14
+1986,"Canada",2,0
+1986,"Central African Republic",1,0
+1986,"Chad",1,0
+1986,"Chile",243,NA
+1986,"Colombia",307,NA
+1986,"Costa Rica",1,0
+1986,"Cyprus",3,1
+1986,"Denmark",2,0
+1986,"Ecuador",8,13
+1986,"Egypt",4,12
+1986,"El Salvador",175,NA
+1986,"Ethiopia",1,40
+1986,"Finland",1,0
+1986,"France",95,25
+1986,"Greece",41,NA
+1986,"Guadeloupe",1,0
+1986,"Guatemala",31,NA
+1986,"Honduras",8,NA
+1986,"Iceland",1,0
+1986,"India",96,NA
+1986,"Indonesia",4,0
+1986,"Iran (Islamic Republic of)",6,39
+1986,"Ireland",2,0
+1986,"Israel",48,NA
+1986,"Italy",7,NA
+1986,"Jamaica",1,3
+1986,"Japan",10,NA
+1986,"Korea, Democratic People's Republic of",2,5
+1986,"Kuwait",1,0
+1986,"Lebanon",106,NA
+1986,"Luxembourg",1,0
+1986,"Malaysia",15,20
+1986,"Malta",1,1
+1986,"Mexico",2,0
+1986,"Morocco",2,2
+1986,"Mozambique",7,470
+1986,"Namibia",1,5
+1986,"Netherlands",14,0
+1986,"New Caledonia",2,0
+1986,"Nicaragua",171,NA
+1986,"Pakistan",24,60
+1986,"Palestine",13,4
+1986,"Panama",5,0
+1986,"Peru",568,NA
+1986,"Philippines",80,NA
+1986,"Portugal",11,1
+1986,"Saudi Arabia",1,62
+1986,"South Africa",159,NA
+1986,"Spain",125,NA
+1986,"Sri Lanka",142,NA
+1986,"Sudan",6,8
+1986,"Suriname",8,2
+1986,"Swaziland",1,NA
+1986,"Sweden",3,1
+1986,"Syrian Arab Republic",4,8
+1986,"Thailand",3,0
+1986,"Tunisia",2,0
+1986,"Turkey",7,26
+1986,"Uganda",1,1
+1986,"United Arab Emirates",1,0
+1986,"United Kingdom",95,63
+1986,"United States",49,NA
+1986,"Uruguay",2,0
+1986,"Venezuela",8,13
+1986,"Western Sahara",1,1
+1986,"Zambia",1,2
+1986,"Zimbabwe",1,1
+1987,"Afghanistan",1,0
+1987,"Angola",3,5
+1987,"Argentina",80,NA
+1987,"Austria",4,0
+1987,"Bangladesh",6,26
+1987,"Belgium",1,1
+1987,"Bolivia",14,1
+1987,"Botswana",1,3
+1987,"Brazil",1,0
+1987,"Burma",1,0
+1987,"Chile",173,NA
+1987,"Colombia",337,NA
+1987,"Costa Rica",3,0
+1987,"Cyprus",10,1
+1987,"Denmark",2,0
+1987,"Djibouti",1,10
+1987,"Dominican Republic",15,7
+1987,"Ecuador",6,0
+1987,"Egypt",7,1
+1987,"El Salvador",234,NA
+1987,"Ethiopia",1,0
+1987,"Fiji",3,0
+1987,"France",87,NA
+1987,"Ghana",1,0
+1987,"Greece",26,2
+1987,"Guatemala",56,NA
+1987,"Haiti",10,4
+1987,"Honduras",20,21
+1987,"India",166,506
+1987,"Iran (Islamic Republic of)",1,0
+1987,"Iraq",3,0
+1987,"Ireland",24,6
+1987,"Israel",23,11
+1987,"Italy",14,3
+1987,"Japan",10,1
+1987,"Kuwait",12,1
+1987,"Lebanon",94,178
+1987,"Malta",4,0
+1987,"Martinique",1,0
+1987,"Mexico",1,0
+1987,"Morocco",4,200
+1987,"Mozambique",11,468
+1987,"Namibia",7,2
+1987,"Netherlands",1,0
+1987,"Nicaragua",223,NA
+1987,"Norway",2,1
+1987,"Pakistan",60,183
+1987,"Palestine",11,3
+1987,"Panama",4,1
+1987,"Paraguay",1,0
+1987,"Peru",627,NA
+1987,"Philippines",160,404
+1987,"Singapore",2,0
+1987,"Somalia",1,0
+1987,"South Africa",133,NA
+1987,"Spain",104,NA
+1987,"Sri Lanka",115,1274
+1987,"Sudan",1,0
+1987,"Suriname",13,6
+1987,"Swaziland",1,4
+1987,"Switzerland",1,1
+1987,"Tunisia",4,0
+1987,"Turkey",43,NA
+1987,"Uganda",1,1
+1987,"United Kingdom",117,104
+1987,"United States",34,1
+1987,"Venezuela",13,NA
+1987,"Zambia",1,0
+1987,"Zimbabwe",11,35
+1988,"Afghanistan",11,128
+1988,"Angola",12,145
+1988,"Argentina",33,1
+1988,"Australia",3,0
+1988,"Austria",1,0
+1988,"Bangladesh",36,87
+1988,"Belgium",5,1
+1988,"Bolivia",11,2
+1988,"Botswana",3,1
+1988,"Brazil",2,0
+1988,"Burma",23,93
+1988,"Chile",185,19
+1988,"Colombia",427,1096
+1988,"Costa Rica",2,0
+1988,"Cyprus",5,6
+1988,"Democratic Republic of the Congo",1,28
+1988,"Denmark",1,0
+1988,"Djibouti",2,0
+1988,"Dominican Republic",2,0
+1988,"Ecuador",9,4
+1988,"Egypt",9,1
+1988,"El Salvador",367,361
+1988,"Ethiopia",2,0
+1988,"France",54,6
+1988,"Greece",38,14
+1988,"Guadeloupe",4,0
+1988,"Guatemala",29,135
+1988,"Haiti",6,3
+1988,"Honduras",21,32
+1988,"India",358,966
+1988,"Iran (Islamic Republic of)",6,18
+1988,"Iraq",4,43
+1988,"Israel",35,13
+1988,"Italy",29,6
+1988,"Japan",16,0
+1988,"Jordan",1,0
+1988,"Korea, Democratic People's Republic of",8,0
+1988,"Kuwait",4,2
+1988,"Lebanon",125,NA
+1988,"Lesotho",1,4
+1988,"Malaysia",4,9
+1988,"Maldives",1,19
+1988,"Martinique",1,0
+1988,"Mauritius",1,0
+1988,"Mexico",3,2
+1988,"Mozambique",16,145
+1988,"Namibia",17,25
+1988,"Netherlands",4,4
+1988,"New Caledonia",9,22
+1988,"Nicaragua",62,NA
+1988,"Nigeria",2,4
+1988,"Pakistan",44,NA
+1988,"Palestine",18,10
+1988,"Panama",1,0
+1988,"Peru",355,NA
+1988,"Philippines",210,550
+1988,"Portugal",2,2
+1988,"Saudi Arabia",1,0
+1988,"Senegal",3,2
+1988,"Somalia",2,0
+1988,"South Africa",245,NA
+1988,"Spain",151,NA
+1988,"Sri Lanka",350,885
+1988,"Sudan",10,58
+1988,"Suriname",9,6
+1988,"Switzerland",4,0
+1988,"Thailand",5,10
+1988,"Turkey",42,102
+1988,"Uganda",15,160
+1988,"United Kingdom",181,372
+1988,"United States",27,1
+1988,"Venezuela",10,41
+1988,"Zambia",5,9
+1988,"Zimbabwe",1,2
+1989,"Afghanistan",10,10
+1989,"Angola",12,88
+1989,"Argentina",32,26
+1989,"Australia",2,0
+1989,"Austria",2,3
+1989,"Bangladesh",36,131
+1989,"Belgium",7,4
+1989,"Bolivia",40,2
+1989,"Botswana",2,NA
+1989,"Brazil",5,1
+1989,"Burma",24,80
+1989,"Cambodia",2,11
+1989,"Canada",1,15
+1989,"Chile",146,19
+1989,"China",3,20
+1989,"Colombia",492,751
+1989,"Costa Rica",1,1
+1989,"Cyprus",6,1
+1989,"Denmark",1,0
+1989,"Dominican Republic",11,1
+1989,"Ecuador",14,NA
+1989,"Egypt",7,1
+1989,"El Salvador",356,350
+1989,"Ethiopia",1,1
+1989,"Fiji",2,0
+1989,"France",25,3
+1989,"Greece",50,4
+1989,"Guatemala",79,43
+1989,"Haiti",3,0
+1989,"Honduras",29,9
+1989,"Hong Kong",1,0
+1989,"Hungary",1,0
+1989,"India",324,874
+1989,"Indonesia",2,85
+1989,"Iran (Islamic Republic of)",6,14
+1989,"Iraq",4,NA
+1989,"Ireland",3,3
+1989,"Israel",87,NA
+1989,"Italy",15,0
+1989,"Japan",13,2
+1989,"Kenya",4,4
+1989,"Korea, Democratic People's Republic of",1,0
+1989,"Lao People's Democratic Republic",1,2
+1989,"Lebanon",141,113
+1989,"Malaysia",2,0
+1989,"Mauritius",1,0
+1989,"Mexico",1,0
+1989,"Mozambique",64,710
+1989,"Namibia",11,1
+1989,"Netherlands",5,0
+1989,"New Caledonia",1,2
+1989,"Nicaragua",21,48
+1989,"Niger",1,171
+1989,"Pakistan",45,56
+1989,"Palestine",100,NA
+1989,"Panama",2,0
+1989,"Papua New Guinea",24,13
+1989,"Peru",630,NA
+1989,"Philippines",156,393
+1989,"Portugal",1,1
+1989,"Qatar",1,3
+1989,"Saudi Arabia",3,1
+1989,"Somalia",2,30
+1989,"South Africa",149,NA
+1989,"Spain",142,NA
+1989,"Sri Lanka",510,1822
+1989,"Sudan",8,14
+1989,"Suriname",17,14
+1989,"Swaziland",1,0
+1989,"Sweden",3,0
+1989,"Syrian Arab Republic",1,0
+1989,"Thailand",16,35
+1989,"Trinidad and Tobago",1,0
+1989,"Turkey",114,232
+1989,"Uganda",15,72
+1989,"United Arab Emirates",1,1
+1989,"United Kingdom",163,66
+1989,"United States",42,NA
+1989,"Uruguay",1,1
+1989,"Venezuela",8,14
+1989,"Zambia",18,33
+1989,"Zimbabwe",3,21
+1990,"Afghanistan",2,12
+1990,"Albania",1,0
+1990,"Algeria",2,3
+1990,"Angola",205,147
+1990,"Argentina",31,1
+1990,"Austria",1,0
+1990,"Bangladesh",22,66
+1990,"Belgium",2,2
+1990,"Bolivia",11,6
+1990,"Botswana",1,6
+1990,"Brazil",7,3
+1990,"Bulgaria",5,0
+1990,"Burma",9,71
+1990,"Cambodia",2,0
+1990,"Chile",161,8
+1990,"China",1,2
+1990,"Colombia",349,NA
+1990,"Costa Rica",1,0
+1990,"Cyprus",11,0
+1990,"Democratic Republic of the Congo",1,0
+1990,"Djibouti",1,1
+1990,"Dominican Republic",2,3
+1990,"Ecuador",8,3
+1990,"Egypt",13,21
+1990,"El Salvador",184,294
+1990,"Ethiopia",10,17
+1990,"France",30,3
+1990,"Germany",1,0
+1990,"Greece",55,NA
+1990,"Guatemala",83,68
+1990,"Guyana",5,0
+1990,"Haiti",3,13
+1990,"Honduras",13,3
+1990,"Hong Kong",1,0
+1990,"India",349,907
+1990,"Indonesia",3,12
+1990,"Iran (Islamic Republic of)",11,10
+1990,"Ireland",2,0
+1990,"Israel",98,57
+1990,"Italy",6,0
+1990,"Japan",93,2
+1990,"Jordan",3,0
+1990,"Korea, Democratic People's Republic of",3,0
+1990,"Lao People's Democratic Republic",1,0
+1990,"Lebanon",84,113
+1990,"Liberia",4,2
+1990,"Malaysia",3,0
+1990,"Mali",1,14
+1990,"Mexico",5,3
+1990,"Mozambique",23,185
+1990,"Namibia",2,0
+1990,"Netherlands",6,2
+1990,"Nicaragua",15,23
+1990,"Pakistan",87,188
+1990,"Palestine",88,62
+1990,"Panama",15,NA
+1990,"Papua New Guinea",18,12
+1990,"Peru",495,1146
+1990,"Philippines",320,NA
+1990,"Poland",7,1
+1990,"Senegal",11,20
+1990,"Somalia",12,5
+1990,"South Africa",154,150
+1990,"Spain",113,32
+1990,"Sri Lanka",141,1505
+1990,"Sudan",1,0
+1990,"Suriname",7,0
+1990,"Sweden",6,1
+1990,"Switzerland",1,1
+1990,"Taiwan",1,0
+1990,"Thailand",10,22
+1990,"Turkey",195,NA
+1990,"Uganda",14,84
+1990,"United Kingdom",147,76
+1990,"United States",32,5
+1990,"Uruguay",1,0
+1990,"Venezuela",1,0
+1990,"Zambia",4,20
+1990,"Zimbabwe",6,9
+1991,"Afghanistan",30,68
+1991,"Albania",1,0
+1991,"Algeria",30,42
+1991,"Angola",16,69
+1991,"Argentina",27,1
+1991,"Armenia",1,0
+1991,"Australia",4,0
+1991,"Austria",3,0
+1991,"Azerbaijan",3,26
+1991,"Bahrain",1,1
+1991,"Bangladesh",42,69
+1991,"Belgium",6,1
+1991,"Belize",3,2
+1991,"Bolivia",28,7
+1991,"Brazil",24,12
+1991,"Bulgaria",3,0
+1991,"Burkina Faso",2,1
+1991,"Burma",22,90
+1991,"Burundi",7,117
+1991,"Cambodia",3,16
+1991,"Cameroon",4,36
+1991,"Central African Republic",4,3
+1991,"Chad",2,40
+1991,"Chile",127,16
+1991,"China",1,0
+1991,"Colombia",420,NA
+1991,"Costa Rica",2,0
+1991,"Croatia",26,237
+1991,"Cuba",1,0
+1991,"Cyprus",11,0
+1991,"Democratic Republic of the Congo",6,3
+1991,"Denmark",1,0
+1991,"Djibouti",1,8
+1991,"Dominican Republic",8,1
+1991,"Ecuador",17,0
+1991,"Egypt",10,8
+1991,"El Salvador",500,NA
+1991,"Ethiopia",5,161
+1991,"Fiji",3,0
+1991,"France",137,6
+1991,"Georgia",3,2
+1991,"Germany",65,10
+1991,"Greece",57,15
+1991,"Guadeloupe",1,1
+1991,"Guatemala",77,73
+1991,"Haiti",17,137
+1991,"Honduras",21,18
+1991,"Hong Kong",1,0
+1991,"Hungary",3,0
+1991,"India",339,NA
+1991,"Indonesia",7,21
+1991,"Iran (Islamic Republic of)",9,2
+1991,"Iraq",3,1
+1991,"Ireland",16,NA
+1991,"Israel",64,31
+1991,"Italy",31,0
+1991,"Jamaica",1,0
+1991,"Japan",19,1
+1991,"Jordan",11,1
+1991,"Kenya",5,0
+1991,"Korea, Democratic People's Republic of",6,NA
+1991,"Kuwait",5,1
+1991,"Lebanon",91,98
+1991,"Liberia",1,0
+1991,"Lithuania",1,0
+1991,"Madagascar",1,4
+1991,"Malaysia",3,0
+1991,"Mali",12,43
+1991,"Martinique",1,0
+1991,"Mexico",10,13
+1991,"Morocco",3,3
+1991,"Mozambique",35,271
+1991,"Namibia",1,3
+1991,"Nepal",1,0
+1991,"Netherlands",8,0
+1991,"New Zealand",1,0
+1991,"Nicaragua",80,54
+1991,"Niger",6,8
+1991,"Nigeria",3,10
+1991,"Norway",2,0
+1991,"Pakistan",150,231
+1991,"Palestine",83,43
+1991,"Panama",16,2
+1991,"Papua New Guinea",2,3
+1991,"Peru",658,1412
+1991,"Philippines",162,NA
+1991,"Republic of Moldova",1,0
+1991,"Romania",1,1
+1991,"Rwanda",3,NA
+1991,"Saudi Arabia",2,0
+1991,"Senegal",4,5
+1991,"Sierra Leone",9,128
+1991,"Singapore",1,4
+1991,"Somalia",8,6
+1991,"South Africa",127,NA
+1991,"Spain",89,NA
+1991,"Sri Lanka",115,1034
+1991,"Sudan",3,32
+1991,"Suriname",1,1
+1991,"Swaziland",1,0
+1991,"Sweden",6,1
+1991,"Switzerland",2,0
+1991,"Taiwan",2,7
+1991,"Thailand",8,11
+1991,"Togo",2,13
+1991,"Trinidad and Tobago",1,0
+1991,"Tunisia",2,4
+1991,"Turkey",293,308
+1991,"Uganda",2,2
+1991,"Ukraine",2,0
+1991,"United Kingdom",262,88
+1991,"United States",30,NA
+1991,"Uruguay",3,0
+1991,"Venezuela",17,47
+1991,"Yemen",5,1
+1991,"Zimbabwe",1,0
+1992,"Afghanistan",36,49
+1992,"Albania",3,1
+1992,"Algeria",215,NA
+1992,"Angola",50,97
+1992,"Argentina",41,33
+1992,"Armenia",2,2
+1992,"Australia",4,1
+1992,"Austria",8,0
+1992,"Azerbaijan",12,186
+1992,"Bangladesh",76,101
+1992,"Barbados",1,3
+1992,"Belgium",9,1
+1992,"Belize",2,1
+1992,"Benin",1,0
+1992,"Bolivia",38,NA
+1992,"Brazil",24,28
+1992,"Brunei Darussalam",1,0
+1992,"Bulgaria",2,0
+1992,"Burma",12,139
+1992,"Burundi",2,61
+1992,"Cambodia",67,NA
+1992,"Cameroon",6,6
+1992,"Canada",3,0
+1992,"Central African Republic",1,1
+1992,"Chad",4,170
+1992,"Chile",116,12
+1992,"China",5,9
+1992,"Colombia",523,NA
+1992,"Comoros",1,1
+1992,"Costa Rica",2,0
+1992,"Croatia",4,2
+1992,"Cuba",4,3
+1992,"Cyprus",6,0
+1992,"Democratic Republic of the Congo",5,10
+1992,"Denmark",4,1
+1992,"Djibouti",6,228
+1992,"Dominican Republic",11,1
+1992,"Ecuador",23,2
+1992,"Egypt",79,49
+1992,"El Salvador",29,23
+1992,"Equatorial Guinea",1,1
+1992,"Estonia",2,0
+1992,"Ethiopia",13,330
+1992,"Fiji",1,1
+1992,"Finland",1,0
+1992,"France",126,9
+1992,"Georgia",39,109
+1992,"Germany",156,17
+1992,"Ghana",8,0
+1992,"Greece",35,2
+1992,"Guatemala",48,NA
+1992,"Guinea",2,0
+1992,"Guyana",4,0
+1992,"Haiti",27,18
+1992,"Honduras",12,5
+1992,"Hong Kong",6,1
+1992,"Hungary",1,0
+1992,"India",237,1152
+1992,"Indonesia",4,33
+1992,"Iran (Islamic Republic of)",16,9
+1992,"Iraq",35,117
+1992,"Ireland",7,0
+1992,"Israel",78,38
+1992,"Italy",37,17
+1992,"Jamaica",6,5
+1992,"Japan",40,0
+1992,"Jordan",2,1
+1992,"Kazakhstan",5,9
+1992,"Kenya",30,155
+1992,"Korea, Democratic People's Republic of",3,1
+1992,"Kuwait",15,2
+1992,"Lao People's Democratic Republic",4,3
+1992,"Latvia",2,0
+1992,"Lebanon",91,79
+1992,"Liberia",10,37
+1992,"Libyan Arab Jamahiriya",1,0
+1992,"Lithuania",1,0
+1992,"Madagascar",7,16
+1992,"Malawi",3,32
+1992,"Malaysia",2,0
+1992,"Mali",3,5
+1992,"Malta",1,1
+1992,"Martinique",1,0
+1992,"Mexico",6,6
+1992,"Morocco",1,2
+1992,"Mozambique",19,155
+1992,"Nepal",8,9
+1992,"Netherlands",12,0
+1992,"New Caledonia",2,0
+1992,"Nicaragua",30,22
+1992,"Niger",16,34
+1992,"Nigeria",11,135
+1992,"Norway",2,0
+1992,"Pakistan",85,NA
+1992,"Palestine",119,93
+1992,"Panama",37,3
+1992,"Papua New Guinea",10,7
+1992,"Paraguay",4,0
+1992,"Peru",383,NA
+1992,"Philippines",162,395
+1992,"Poland",5,4
+1992,"Portugal",1,0
+1992,"Republic of Moldova",11,10
+1992,"Romania",1,0
+1992,"Russia",21,34
+1992,"Rwanda",18,141
+1992,"Senegal",15,64
+1992,"Sierra Leone",4,21
+1992,"Singapore",1,0
+1992,"Somalia",21,NA
+1992,"South Africa",271,706
+1992,"Spain",72,29
+1992,"Sri Lanka",103,NA
+1992,"Sudan",7,13
+1992,"Suriname",5,0
+1992,"Swaziland",1,0
+1992,"Sweden",12,2
+1992,"Switzerland",6,6
+1992,"Taiwan",20,16
+1992,"Tajikistan",17,14
+1992,"Thailand",25,39
+1992,"The former Yugoslav Republic of Macedonia",22,55
+1992,"Togo",27,12
+1992,"Trinidad and Tobago",1,0
+1992,"Turkey",514,1233
+1992,"Uganda",3,2
+1992,"Ukraine",1,1
+1992,"United Arab Emirates",1,0
+1992,"United Kingdom",274,94
+1992,"United States",32,2
+1992,"Uruguay",11,0
+1992,"Uzbekistan",2,0
+1992,"Venezuela",32,7
+1992,"Viet Nam",1,0
+1992,"Western Sahara",1,0
+1992,"Yemen",24,20
+1992,"Zimbabwe",1,0
+1994,"Afghanistan",9,22
+1994,"Albania",2,1
+1994,"Algeria",227,500
+1994,"Angola",9,108
+1994,"Argentina",14,86
+1994,"Armenia",4,15
+1994,"Australia",9,3
+1994,"Austria",5,0
+1994,"Azerbaijan",11,NA
+1994,"Bahrain",1,0
+1994,"Bangladesh",68,NA
+1994,"Belarus",1,NA
+1994,"Belgium",5,NA
+1994,"Benin",3,0
+1994,"Bolivia",8,NA
+1994,"Brazil",19,NA
+1994,"Bulgaria",2,NA
+1994,"Burma",8,18
+1994,"Burundi",16,NA
+1994,"Cambodia",39,NA
+1994,"Cameroon",6,33
+1994,"Canada",4,0
+1994,"Central African Republic",1,2
+1994,"Chad",1,1
+1994,"Chile",15,0
+1994,"China",13,18
+1994,"Colombia",201,218
+1994,"Comoros",1,0
+1994,"Costa Rica",1,1
+1994,"Croatia",4,3
+1994,"Cuba",9,3
+1994,"Cyprus",6,2
+1994,"Czech Republic",1,0
+1994,"Democratic Republic of the Congo",14,13
+1994,"Djibouti",2,6
+1994,"Dominican Republic",7,2
+1994,"Ecuador",6,0
+1994,"Egypt",143,173
+1994,"El Salvador",21,22
+1994,"Estonia",6,0
+1994,"Ethiopia",4,6
+1994,"Finland",1,0
+1994,"France",97,NA
+1994,"Gabon",1,0
+1994,"Gambia",1,13
+1994,"Georgia",18,29
+1994,"Germany",79,2
+1994,"Ghana",4,13
+1994,"Greece",42,3
+1994,"Guatemala",84,22
+1994,"Guinea",2,2
+1994,"Haiti",27,87
+1994,"Honduras",6,10
+1994,"Hong Kong",4,3
+1994,"Hungary",2,0
+1994,"India",107,389
+1994,"Indonesia",5,1
+1994,"Iran (Islamic Republic of)",43,74
+1994,"Iraq",18,NA
+1994,"Ireland",10,NA
+1994,"Israel",55,NA
+1994,"Italy",18,2
+1994,"Jamaica",2,2
+1994,"Japan",9,8
+1994,"Jordan",6,0
+1994,"Kazakhstan",1,0
+1994,"Kenya",5,40
+1994,"Korea, Democratic People's Republic of",3,4
+1994,"Kuwait",2,0
+1994,"Lao People's Democratic Republic",1,2
+1994,"Latvia",2,1
+1994,"Lebanon",67,57
+1994,"Lesotho",3,0
+1994,"Liberia",3,110
+1994,"Luxembourg",3,0
+1994,"Mali",13,131
+1994,"Mexico",42,NA
+1994,"Morocco",2,0
+1994,"Mozambique",3,0
+1994,"Namibia",1,0
+1994,"Nepal",3,4
+1994,"Netherlands",3,0
+1994,"New Zealand",1,0
+1994,"Nicaragua",19,12
+1994,"Niger",8,53
+1994,"Nigeria",8,15
+1994,"Norway",2,0
+1994,"Pakistan",154,354
+1994,"Palestine",165,NA
+1994,"Panama",3,21
+1994,"Papua New Guinea",3,17
+1994,"Paraguay",2,1
+1994,"Peru",91,81
+1994,"Philippines",72,NA
+1994,"Poland",4,0
+1994,"Portugal",1,2
+1994,"Republic of Moldova",1,1
+1994,"Russia",47,34
+1994,"Rwanda",33,1571
+1994,"Saudi Arabia",2,0
+1994,"Senegal",2,5
+1994,"Sierra Leone",22,228
+1994,"Singapore",1,1
+1994,"Slovenia",1,1
+1994,"Somalia",57,NA
+1994,"South Africa",174,447
+1994,"Spain",55,17
+1994,"Sri Lanka",35,186
+1994,"Sudan",5,17
+1994,"Suriname",1,0
+1994,"Sweden",1,0
+1994,"Taiwan",5,1
+1994,"Tajikistan",31,48
+1994,"Thailand",24,17
+1994,"The former Yugoslav Republic of Macedonia",10,NA
+1994,"Togo",13,47
+1994,"Trinidad and Tobago",1,2
+1994,"Tunisia",1,1
+1994,"Turkey",300,982
+1994,"Uganda",13,22
+1994,"Ukraine",10,NA
+1994,"United Kingdom",256,NA
+1994,"United Republic of Tanzania",1,1
+1994,"United States",55,NA
+1994,"Uruguay",4,0
+1994,"Venezuela",12,4
+1994,"Viet Nam",1,0
+1994,"Yemen",19,14
+1994,"Zimbabwe",1,0
+1995,"Afghanistan",6,5
+1995,"Algeria",185,418
+1995,"Angola",10,52
+1995,"Argentina",16,0
+1995,"Armenia",1,2
+1995,"Australia",5,0
+1995,"Austria",12,6
+1995,"Azerbaijan",2,0
+1995,"Bahrain",8,1
+1995,"Bangladesh",74,35
+1995,"Belgium",1,0
+1995,"Benin",1,0
+1995,"Bolivia",2,0
+1995,"Botswana",1,0
+1995,"Brazil",23,13
+1995,"Bulgaria",2,3
+1995,"Burma",12,30
+1995,"Burundi",83,NA
+1995,"Cambodia",56,21
+1995,"Cameroon",2,5
+1995,"Canada",5,1
+1995,"Chad",3,0
+1995,"Chile",17,1
+1995,"China",8,6
+1995,"Colombia",123,521
+1995,"Croatia",1,1
+1995,"Cyprus",3,0
+1995,"Czech Republic",3,1
+1995,"Democratic Republic of the Congo",6,43
+1995,"Denmark",6,0
+1995,"Djibouti",2,0
+1995,"Ecuador",6,4
+1995,"Egypt",102,134
+1995,"El Salvador",9,3
+1995,"Eritrea",2,0
+1995,"Estonia",2,0
+1995,"Ethiopia",5,5
+1995,"Finland",1,0
+1995,"France",71,19
+1995,"French Polynesia",3,0
+1995,"Gambia",1,0
+1995,"Georgia",17,14
+1995,"Germany",147,10
+1995,"Ghana",1,2
+1995,"Greece",8,0
+1995,"Guatemala",82,40
+1995,"Haiti",34,16
+1995,"Honduras",12,8
+1995,"Hong Kong",1,0
+1995,"India",179,361
+1995,"Indonesia",24,41
+1995,"Iran (Islamic Republic of)",8,0
+1995,"Iraq",17,156
+1995,"Ireland",3,1
+1995,"Israel",13,18
+1995,"Italy",1,0
+1995,"Jamaica",1,1
+1995,"Japan",20,15
+1995,"Jordan",3,1
+1995,"Kenya",4,2
+1995,"Korea, Democratic People's Republic of",4,0
+1995,"Latvia",1,0
+1995,"Lebanon",38,35
+1995,"Libyan Arab Jamahiriya",1,0
+1995,"Lithuania",2,0
+1995,"Macau",1,0
+1995,"Madagascar",3,4
+1995,"Mali",1,2
+1995,"Malta",2,1
+1995,"Mexico",29,61
+1995,"Morocco",1,0
+1995,"Mozambique",3,15
+1995,"Netherlands",7,1
+1995,"Nicaragua",18,6
+1995,"Niger",2,22
+1995,"Nigeria",1,1
+1995,"Pakistan",666,NA
+1995,"Palestine",67,43
+1995,"Panama",6,3
+1995,"Papua New Guinea",10,NA
+1995,"Paraguay",12,0
+1995,"Peru",44,103
+1995,"Philippines",63,201
+1995,"Poland",4,0
+1995,"Portugal",3,0
+1995,"Romania",1,0
+1995,"Russia",37,145
+1995,"Rwanda",17,201
+1995,"Saint Kitts and Nevis",2,0
+1995,"Saudi Arabia",3,14
+1995,"Senegal",8,18
+1995,"Sierra Leone",14,40
+1995,"Somalia",13,29
+1995,"South Africa",32,105
+1995,"Spain",44,18
+1995,"Sri Lanka",126,1020
+1995,"Sudan",4,6
+1995,"Swaziland",1,0
+1995,"Sweden",1,0
+1995,"Switzerland",5,1
+1995,"Taiwan",4,0
+1995,"Tajikistan",34,78
+1995,"Thailand",12,19
+1995,"The former Yugoslav Republic of Macedonia",7,3
+1995,"Togo",1,0
+1995,"Trinidad and Tobago",4,4
+1995,"Tunisia",1,7
+1995,"Turkey",133,189
+1995,"Uganda",7,145
+1995,"Ukraine",2,0
+1995,"United Arab Emirates",2,0
+1995,"United Kingdom",22,11
+1995,"United Republic of Tanzania",1,0
+1995,"United States",60,178
+1995,"Uruguay",1,0
+1995,"Uzbekistan",1,0
+1995,"Venezuela",11,8
+1995,"Viet Nam",1,0
+1995,"Yemen",8,4
+1995,"Zambia",1,0
+1995,"Zimbabwe",2,0
+1996,"Afghanistan",4,31
+1996,"Albania",6,7
+1996,"Algeria",129,NA
+1996,"Angola",4,18
+1996,"Argentina",19,1
+1996,"Armenia",1,2
+1996,"Australia",5,2
+1996,"Austria",4,0
+1996,"Azerbaijan",2,2
+1996,"Bahrain",16,8
+1996,"Bangladesh",161,NA
+1996,"Benin",2,0
+1996,"Bolivia",1,0
+1996,"Brazil",18,22
+1996,"Bulgaria",12,9
+1996,"Burma",13,NA
+1996,"Burundi",35,NA
+1996,"Cambodia",33,44
+1996,"Canada",1,0
+1996,"Central African Republic",1,2
+1996,"Chad",1,1
+1996,"Chile",8,2
+1996,"China",62,23
+1996,"Colombia",409,NA
+1996,"Costa Rica",1,1
+1996,"Croatia",3,0
+1996,"Cuba",1,0
+1996,"Cyprus",10,3
+1996,"Czech Republic",3,2
+1996,"Democratic Republic of the Congo",14,223
+1996,"Dominican Republic",3,3
+1996,"Ecuador",5,2
+1996,"Egypt",51,97
+1996,"El Salvador",7,26
+1996,"Eritrea",1,6
+1996,"Estonia",1,1
+1996,"Ethiopia",7,133
+1996,"France",270,18
+1996,"French Guiana",2,0
+1996,"Gabon",1,0
+1996,"Georgia",3,2
+1996,"Germany",52,1
+1996,"Ghana",2,3
+1996,"Greece",20,0
+1996,"Guatemala",26,14
+1996,"Guinea",1,2
+1996,"Haiti",27,14
+1996,"Honduras",19,11
+1996,"Hong Kong",3,0
+1996,"Hungary",13,0
+1996,"India",213,NA
+1996,"Indonesia",65,NA
+1996,"Iran (Islamic Republic of)",3,3
+1996,"Iraq",12,11
+1996,"Ireland",1,1
+1996,"Israel",19,73
+1996,"Italy",8,0
+1996,"Jamaica",1,1
+1996,"Japan",8,0
+1996,"Jordan",2,0
+1996,"Kenya",3,2
+1996,"Korea, Democratic People's Republic of",1,0
+1996,"Kyrgyzstan",5,0
+1996,"Lao People's Democratic Republic",1,5
+1996,"Lebanon",39,57
+1996,"Liberia",1,10
+1996,"Libyan Arab Jamahiriya",4,12
+1996,"Lithuania",3,0
+1996,"Macau",10,NA
+1996,"Madagascar",2,1
+1996,"Mauritania",1,0
+1996,"Mexico",75,96
+1996,"Morocco",2,0
+1996,"Nepal",5,6
+1996,"Netherlands",6,0
+1996,"New Zealand",2,0
+1996,"Nicaragua",26,18
+1996,"Niger",1,2
+1996,"Nigeria",11,24
+1996,"Norway",1,0
+1996,"Pakistan",180,423
+1996,"Palestine",30,17
+1996,"Panama",2,0
+1996,"Papua New Guinea",10,21
+1996,"Peru",42,NA
+1996,"Philippines",61,NA
+1996,"Poland",6,NA
+1996,"Qatar",1,0
+1996,"Republic of Moldova",2,0
+1996,"Russia",66,NA
+1996,"Rwanda",15,129
+1996,"Saudi Arabia",1,19
+1996,"Sierra Leone",5,60
+1996,"Slovenia",3,0
+1996,"Somalia",16,28
+1996,"South Africa",47,82
+1996,"Spain",63,5
+1996,"Sri Lanka",176,827
+1996,"Sudan",10,40
+1996,"Sweden",1,0
+1996,"Switzerland",4,1
+1996,"Syrian Arab Republic",2,15
+1996,"Taiwan",5,9
+1996,"Tajikistan",22,50
+1996,"Thailand",19,10
+1996,"The former Yugoslav Republic of Macedonia",33,2
+1996,"Togo",1,3
+1996,"Trinidad and Tobago",3,0
+1996,"Turkey",54,117
+1996,"Uganda",29,413
+1996,"Ukraine",3,0
+1996,"United Kingdom",36,14
+1996,"United States",35,2
+1996,"Uruguay",1,0
+1996,"Vanuatu",2,0
+1996,"Venezuela",12,13
+1996,"Viet Nam",1,0
+1996,"Yemen",8,3
+1996,"Zambia",4,0
+1997,"Afghanistan",1,4
+1997,"Albania",41,26
+1997,"Algeria",344,4266
+1997,"Angola",7,34
+1997,"Argentina",11,3
+1997,"Australia",4,0
+1997,"Austria",1,0
+1997,"Azerbaijan",1,1
+1997,"Bahamas",2,1
+1997,"Bahrain",11,5
+1997,"Bangladesh",17,14
+1997,"Belarus",2,1
+1997,"Belgium",2,4
+1997,"Bolivia",4,4
+1997,"Brazil",39,28
+1997,"Bulgaria",3,0
+1997,"Burma",35,16
+1997,"Burundi",79,386
+1997,"Cambodia",18,100
+1997,"Canada",2,0
+1997,"Chad",1,2
+1997,"Chile",6,0
+1997,"China",18,37
+1997,"Colombia",598,NA
+1997,"Comoros",3,0
+1997,"Costa Rica",1,2
+1997,"Croatia",8,2
+1997,"Cuba",14,1
+1997,"Czech Republic",4,1
+1997,"Democratic Republic of the Congo",8,23
+1997,"Djibouti",1,11
+1997,"Dominica",1,0
+1997,"Dominican Republic",12,3
+1997,"Ecuador",4,1
+1997,"Egypt",22,165
+1997,"El Salvador",2,1
+1997,"Ethiopia",6,8
+1997,"France",130,0
+1997,"French Guiana",2,0
+1997,"Gabon",1,4
+1997,"Georgia",6,35
+1997,"Germany",12,0
+1997,"Ghana",1,1
+1997,"Greece",21,1
+1997,"Guatemala",26,22
+1997,"Guyana",1,0
+1997,"Haiti",16,9
+1997,"Honduras",22,14
+1997,"Hungary",17,3
+1997,"India",193,853
+1997,"Indonesia",27,102
+1997,"Iraq",21,NA
+1997,"Ireland",4,0
+1997,"Israel",13,31
+1997,"Italy",8,0
+1997,"Jamaica",8,10
+1997,"Japan",5,0
+1997,"Jordan",3,0
+1997,"Kazakhstan",2,2
+1997,"Kenya",17,36
+1997,"Kuwait",2,0
+1997,"Latvia",2,0
+1997,"Lebanon",46,36
+1997,"Lithuania",1,1
+1997,"Macau",16,1
+1997,"Madagascar",1,0
+1997,"Mali",3,0
+1997,"Malta",1,0
+1997,"Mexico",95,229
+1997,"Nepal",9,15
+1997,"Netherlands",1,0
+1997,"New Zealand",1,0
+1997,"Nicaragua",7,7
+1997,"Niger",3,32
+1997,"Nigeria",20,107
+1997,"Pakistan",206,NA
+1997,"Palestine",22,9
+1997,"Panama",6,3
+1997,"Papua New Guinea",2,0
+1997,"Paraguay",6,1
+1997,"Peru",58,47
+1997,"Philippines",57,98
+1997,"Poland",3,2
+1997,"Republic of Moldova",1,0
+1997,"Russia",77,61
+1997,"Rwanda",33,1027
+1997,"Senegal",26,92
+1997,"Sierra Leone",3,16
+1997,"Slovenia",1,0
+1997,"Somalia",19,145
+1997,"South Africa",17,23
+1997,"Spain",86,NA
+1997,"Sri Lanka",64,486
+1997,"Sudan",3,1
+1997,"Suriname",2,0
+1997,"Swaziland",1,0
+1997,"Sweden",4,1
+1997,"Switzerland",1,0
+1997,"Syrian Arab Republic",1,2
+1997,"Taiwan",1,0
+1997,"Tajikistan",40,43
+1997,"Thailand",20,18
+1997,"The former Yugoslav Republic of Macedonia",44,5
+1997,"Turkey",44,60
+1997,"Uganda",24,239
+1997,"Ukraine",2,2
+1997,"United Kingdom",78,NA
+1997,"United Republic of Tanzania",1,1
+1997,"United States",40,2
+1997,"Uruguay",2,0
+1997,"Venezuela",41,3
+1997,"Viet Nam",2,1
+1997,"Yemen",19,11
+1998,"Afghanistan",1,8
+1998,"Albania",7,NA
+1998,"Algeria",151,NA
+1998,"Angola",20,NA
+1998,"Armenia",2,0
+1998,"Australia",6,0
+1998,"Austria",1,0
+1998,"Bangladesh",2,0
+1998,"Belgium",3,0
+1998,"Brazil",2,0
+1998,"Bulgaria",2,0
+1998,"Burundi",13,392
+1998,"Cambodia",7,NA
+1998,"Cameroon",1,NA
+1998,"Canada",4,1
+1998,"Chad",1,0
+1998,"Chile",1,0
+1998,"China",2,50
+1998,"Colombia",94,NA
+1998,"Cyprus",1,0
+1998,"Democratic Republic of the Congo",4,NA
+1998,"Ecuador",3,0
+1998,"Egypt",3,9
+1998,"France",12,1
+1998,"Georgia",12,32
+1998,"Germany",6,0
+1998,"Greece",28,0
+1998,"Guyana",2,0
+1998,"Haiti",1,0
+1998,"Hungary",2,0
+1998,"India",61,398
+1998,"Indonesia",3,9
+1998,"Iran (Islamic Republic of)",5,6
+1998,"Iraq",7,19
+1998,"Ireland",3,1
+1998,"Israel",14,NA
+1998,"Italy",6,0
+1998,"Japan",1,0
+1998,"Jordan",1,0
+1998,"Kenya",2,226
+1998,"Latvia",4,0
+1998,"Lebanon",23,NA
+1998,"Macau",6,0
+1998,"Mexico",2,3
+1998,"Nigeria",2,9
+1998,"Pakistan",37,NA
+1998,"Palestine",12,12
+1998,"Peru",5,7
+1998,"Philippines",18,6
+1998,"Poland",2,0
+1998,"Russia",26,49
+1998,"Rwanda",9,100
+1998,"Senegal",1,4
+1998,"Sierra Leone",7,NA
+1998,"Somalia",1,0
+1998,"South Africa",6,13
+1998,"Spain",17,6
+1998,"Sri Lanka",35,NA
+1998,"Swaziland",1,1
+1998,"Switzerland",1,0
+1998,"Syrian Arab Republic",1,NA
+1998,"Tajikistan",11,29
+1998,"Thailand",4,4
+1998,"The former Yugoslav Republic of Macedonia",14,NA
+1998,"Turkey",23,37
+1998,"Uganda",18,81
+1998,"United Kingdom",63,46
+1998,"United Republic of Tanzania",1,11
+1998,"United States",31,4
+1998,"Venezuela",1,0
+1998,"Yemen",7,8
+1999,"Afghanistan",9,NA
+1999,"Albania",3,6
+1999,"Algeria",106,467
+1999,"Angola",34,NA
+1999,"Argentina",1,0
+1999,"Armenia",2,8
+1999,"Bangladesh",11,30
+1999,"Belarus",1,0
+1999,"Belgium",2,0
+1999,"Brazil",1,1
+1999,"Bulgaria",1,0
+1999,"Burma",4,10
+1999,"Burundi",13,NA
+1999,"Cambodia",8,NA
+1999,"Canada",2,0
+1999,"Chad",1,77
+1999,"Chile",3,0
+1999,"China",2,5
+1999,"Colombia",116,NA
+1999,"Cyprus",1,0
+1999,"Democratic Republic of the Congo",6,114
+1999,"Denmark",1,0
+1999,"Ecuador",2,0
+1999,"Egypt",1,1
+1999,"Estonia",1,0
+1999,"Ethiopia",2,2
+1999,"Fiji",3,0
+1999,"France",46,0
+1999,"Georgia",7,5
+1999,"Germany",13,3
+1999,"Greece",35,1
+1999,"Guatemala",1,3
+1999,"Haiti",5,3
+1999,"India",112,NA
+1999,"Indonesia",60,NA
+1999,"Iran (Islamic Republic of)",8,NA
+1999,"Iraq",12,32
+1999,"Ireland",3,0
+1999,"Israel",8,6
+1999,"Italy",7,1
+1999,"Japan",2,0
+1999,"Jordan",2,0
+1999,"Kyrgyzstan",3,1
+1999,"Latvia",1,0
+1999,"Lebanon",42,NA
+1999,"Liberia",2,0
+1999,"Mexico",1,0
+1999,"Mozambique",1,0
+1999,"Namibia",1,13
+1999,"Nepal",8,NA
+1999,"Netherlands",1,0
+1999,"Nicaragua",1,0
+1999,"Niger",2,4
+1999,"Nigeria",18,NA
+1999,"Pakistan",39,127
+1999,"Palestine",11,1
+1999,"Panama",1,0
+1999,"Paraguay",1,2
+1999,"Peru",5,NA
+1999,"Philippines",31,NA
+1999,"Russia",54,NA
+1999,"Senegal",1,1
+1999,"Serbia",39,NA
+1999,"Sierra Leone",9,28
+1999,"Solomon Islands",1,2
+1999,"Somalia",4,9
+1999,"South Africa",17,NA
+1999,"Spain",47,0
+1999,"Sri Lanka",46,NA
+1999,"Sudan",5,16
+1999,"Swaziland",1,0
+1999,"Sweden",2,0
+1999,"Switzerland",2,0
+1999,"Tajikistan",4,2
+1999,"Thailand",4,NA
+1999,"The former Yugoslav Republic of Macedonia",8,1
+1999,"Turkey",109,127
+1999,"Uganda",19,75
+1999,"Ukraine",6,1
+1999,"United Kingdom",76,NA
+1999,"United States",53,20
+1999,"Uzbekistan",8,19
+1999,"Venezuela",5,0
+1999,"Yemen",17,11
+1999,"Zambia",7,1
+2000,"Afghanistan",14,NA
+2000,"Albania",2,0
+2000,"Algeria",138,NA
+2000,"Angola",22,NA
+2000,"Armenia",2,0
+2000,"Australia",1,0
+2000,"Azerbaijan",1,0
+2000,"Bangladesh",23,NA
+2000,"Belize",1,0
+2000,"Brazil",2,0
+2000,"Bulgaria",2,4
+2000,"Burundi",17,97
+2000,"Cambodia",4,12
+2000,"Canada",5,0
+2000,"Central African Republic",1,1
+2000,"Chile",2,0
+2000,"China",4,1
+2000,"Colombia",137,NA
+2000,"Croatia",2,3
+2000,"Cyprus",2,0
+2000,"Democratic Republic of the Congo",3,40
+2000,"Ecuador",4,0
+2000,"Ethiopia",1,3
+2000,"Fiji",4,7
+2000,"France",28,4
+2000,"Gambia",1,0
+2000,"Georgia",7,3
+2000,"Germany",8,1
+2000,"Greece",28,1
+2000,"Guatemala",1,2
+2000,"Guinea",12,NA
+2000,"Haiti",9,5
+2000,"Hong Kong",2,0
+2000,"India",180,NA
+2000,"Indonesia",101,146
+2000,"Iran (Islamic Republic of)",15,NA
+2000,"Iraq",10,NA
+2000,"Israel",15,11
+2000,"Italy",8,0
+2000,"Japan",13,0
+2000,"Jordan",2,0
+2000,"Kazakhstan",1,2
+2000,"Kenya",4,26
+2000,"Kyrgyzstan",4,2
+2000,"Lao People's Democratic Republic",8,NA
+2000,"Latvia",3,1
+2000,"Lebanon",12,12
+2000,"Liberia",1,0
+2000,"Malaysia",3,2
+2000,"Mexico",4,5
+2000,"Mozambique",3,NA
+2000,"Namibia",21,24
+2000,"Nepal",23,NA
+2000,"Netherlands",1,0
+2000,"Nicaragua",1,2
+2000,"Nigeria",6,0
+2000,"Pakistan",49,118
+2000,"Palestine",28,21
+2000,"Panama",1,0
+2000,"Paraguay",2,0
+2000,"Peru",3,4
+2000,"Philippines",132,NA
+2000,"Qatar",1,0
+2000,"Republic of Moldova",1,0
+2000,"Russia",138,NA
+2000,"Rwanda",1,4
+2000,"Saudi Arabia",5,1
+2000,"Senegal",4,4
+2000,"Serbia",60,NA
+2000,"Sierra Leone",24,NA
+2000,"Slovenia",1,0
+2000,"Solomon Islands",1,0
+2000,"Somalia",9,36
+2000,"South Africa",21,18
+2000,"Spain",112,29
+2000,"Sri Lanka",68,NA
+2000,"Sudan",7,NA
+2000,"Sweden",1,0
+2000,"Switzerland",4,0
+2000,"Tajikistan",6,11
+2000,"Thailand",4,NA
+2000,"The former Yugoslav Republic of Macedonia",9,4
+2000,"Tunisia",1,5
+2000,"Turkey",35,12
+2000,"Uganda",20,NA
+2000,"Ukraine",1,0
+2000,"United Kingdom",61,7
+2000,"United Republic of Tanzania",2,0
+2000,"United States",32,0
+2000,"Yemen",10,NA
+2000,"Zambia",8,0
+2000,"Zimbabwe",1,0
+2001,"Afghanistan",14,NA
+2001,"Albania",1,0
+2001,"Algeria",113,624
+2001,"Angola",40,NA
+2001,"Argentina",2,0
+2001,"Armenia",2,1
+2001,"Australia",2,0
+2001,"Azerbaijan",4,1
+2001,"Bangladesh",15,57
+2001,"Belarus",1,0
+2001,"Brazil",3,1
+2001,"Bulgaria",1,0
+2001,"Burma",3,8
+2001,"Burundi",37,166
+2001,"Cambodia",7,4
+2001,"Central African Republic",1,7
+2001,"Chile",3,0
+2001,"China",12,7
+2001,"Colombia",207,NA
+2001,"Costa Rica",1,1
+2001,"Croatia",3,0
+2001,"Cyprus",1,0
+2001,"Czech Republic",1,0
+2001,"Democratic Republic of the Congo",6,15
+2001,"Ecuador",5,0
+2001,"Estonia",1,1
+2001,"Fiji",1,0
+2001,"France",21,0
+2001,"Georgia",4,6
+2001,"Germany",8,3
+2001,"Greece",14,0
+2001,"Guatemala",2,1
+2001,"Guinea-Bissau",1,0
+2001,"Guyana",1,0
+2001,"Haiti",5,0
+2001,"Hong Kong",1,0
+2001,"Hungary",1,1
+2001,"India",234,NA
+2001,"Indonesia",105,134
+2001,"Iran (Islamic Republic of)",4,NA
+2001,"Iraq",3,9
+2001,"Ireland",2,0
+2001,"Israel",79,NA
+2001,"Italy",11,0
+2001,"Japan",3,0
+2001,"Jordan",2,1
+2001,"Kazakhstan",1,0
+2001,"Kenya",7,13
+2001,"Korea, Democratic People's Republic of",1,0
+2001,"Kuwait",2,2
+2001,"Kyrgyzstan",1,NA
+2001,"Lao People's Democratic Republic",1,0
+2001,"Lebanon",5,0
+2001,"Liberia",3,NA
+2001,"Malaysia",1,0
+2001,"Mexico",7,13
+2001,"Montenegro",1,1
+2001,"Namibia",6,1
+2001,"Nepal",33,NA
+2001,"Netherlands",1,0
+2001,"New Zealand",1,0
+2001,"Nigeria",5,3
+2001,"Norway",1,1
+2001,"Pakistan",53,109
+2001,"Palestine",123,105
+2001,"Peru",3,16
+2001,"Philippines",50,154
+2001,"Poland",1,0
+2001,"Qatar",1,1
+2001,"Russia",135,NA
+2001,"Rwanda",2,2
+2001,"Saudi Arabia",3,2
+2001,"Senegal",8,28
+2001,"Serbia",17,20
+2001,"Somalia",5,NA
+2001,"Spain",79,14
+2001,"Sri Lanka",36,195
+2001,"Sudan",9,NA
+2001,"Switzerland",2,14
+2001,"Taiwan",2,2
+2001,"Tajikistan",6,8
+2001,"Thailand",14,11
+2001,"The former Yugoslav Republic of Macedonia",69,35
+2001,"Tunisia",1,3
+2001,"Turkey",19,17
+2001,"Uganda",24,56
+2001,"United Kingdom",94,8
+2001,"United Republic of Tanzania",4,2
+2001,"United States",41,NA
+2001,"Venezuela",5,0
+2001,"Viet Nam",4,0
+2001,"Yemen",7,2
+2001,"Zimbabwe",3,1
+2002,"Afghanistan",38,74
+2002,"Algeria",132,NA
+2002,"Angola",6,59
+2002,"Azerbaijan",1,0
+2002,"Bangladesh",5,21
+2002,"Belgium",3,0
+2002,"Brazil",1,0
+2002,"Bulgaria",1,1
+2002,"Burma",4,5
+2002,"Burundi",18,67
+2002,"Cambodia",3,4
+2002,"Chad",4,21
+2002,"Chile",1,0
+2002,"China",2,1
+2002,"Colombia",150,NA
+2002,"Democratic Republic of the Congo",10,33
+2002,"Ecuador",2,0
+2002,"Ethiopia",3,1
+2002,"France",32,0
+2002,"Georgia",2,1
+2002,"Germany",3,0
+2002,"Greece",11,0
+2002,"Guyana",1,4
+2002,"Haiti",2,0
+2002,"Honduras",1,0
+2002,"India",184,599
+2002,"Indonesia",43,246
+2002,"Iraq",6,NA
+2002,"Israel",75,337
+2002,"Italy",7,1
+2002,"Japan",2,0
+2002,"Jordan",2,3
+2002,"Kenya",2,16
+2002,"Kuwait",1,4
+2002,"Kyrgyzstan",2,2
+2002,"Lebanon",8,2
+2002,"Liberia",3,3
+2002,"Madagascar",5,0
+2002,"Malawi",1,1
+2002,"Nepal",58,486
+2002,"Netherlands",2,1
+2002,"Nigeria",6,28
+2002,"Pakistan",46,105
+2002,"Palestine",86,NA
+2002,"Papua New Guinea",1,NA
+2002,"Peru",2,9
+2002,"Philippines",48,NA
+2002,"Russia",89,NA
+2002,"Saudi Arabia",2,1
+2002,"Senegal",3,8
+2002,"Serbia",5,1
+2002,"Solomon Islands",1,1
+2002,"Somalia",3,6
+2002,"South Africa",8,1
+2002,"Spain",41,5
+2002,"Sri Lanka",3,3
+2002,"Sudan",13,589
+2002,"Thailand",12,16
+2002,"The former Yugoslav Republic of Macedonia",11,3
+2002,"Tunisia",1,21
+2002,"Turkey",5,0
+2002,"Turkmenistan",1,0
+2002,"Uganda",24,NA
+2002,"Ukraine",3,1
+2002,"United Kingdom",21,2
+2002,"United Republic of Tanzania",2,24
+2002,"United States",33,4
+2002,"Venezuela",5,0
+2002,"Yemen",7,NA
+2002,"Zambia",1,0
+2002,"Zimbabwe",8,NA
+2003,"Afghanistan",100,NA
+2003,"Albania",1,0
+2003,"Algeria",75,269
+2003,"Argentina",1,0
+2003,"Bahrain",1,0
+2003,"Bangladesh",4,3
+2003,"Belgium",8,0
+2003,"Bolivia",1,0
+2003,"Brazil",1,0
+2003,"Burma",9,18
+2003,"Burundi",18,NA
+2003,"Cambodia",1,1
+2003,"Chile",2,0
+2003,"China",3,1
+2003,"Colombia",98,NA
+2003,"Czech Republic",1,0
+2003,"Democratic Republic of the Congo",7,165
+2003,"Ecuador",4,0
+2003,"Ethiopia",1,2
+2003,"France",34,0
+2003,"Georgia",6,0
+2003,"Germany",2,0
+2003,"Greece",12,0
+2003,"Guatemala",3,1
+2003,"Guinea-Bissau",1,1
+2003,"Guyana",1,0
+2003,"Haiti",5,4
+2003,"India",196,472
+2003,"Indonesia",18,26
+2003,"Iran (Islamic Republic of)",2,0
+2003,"Iraq",102,NA
+2003,"Ireland",1,0
+2003,"Israel",38,156
+2003,"Italy",15,0
+2003,"Japan",2,0
+2003,"Kenya",2,3
+2003,"Korea, Democratic People's Republic of",1,0
+2003,"Kuwait",3,1
+2003,"Kyrgyzstan",1,1
+2003,"Lao People's Democratic Republic",2,10
+2003,"Lebanon",5,3
+2003,"Liberia",2,2
+2003,"Mexico",1,2
+2003,"Morocco",5,45
+2003,"Nepal",15,NA
+2003,"Netherlands",3,0
+2003,"New Zealand",3,0
+2003,"Nigeria",9,28
+2003,"Norway",1,0
+2003,"Pakistan",29,119
+2003,"Palestine",45,NA
+2003,"Peru",1,7
+2003,"Philippines",107,NA
+2003,"Russia",76,NA
+2003,"Saudi Arabia",8,55
+2003,"Serbia",9,7
+2003,"Solomon Islands",1,1
+2003,"Somalia",1,7
+2003,"Spain",21,3
+2003,"Sri Lanka",9,23
+2003,"Swaziland",1,0
+2003,"Switzerland",1,0
+2003,"Thailand",6,6
+2003,"The former Yugoslav Republic of Macedonia",6,NA
+2003,"Turkey",19,67
+2003,"Uganda",30,NA
+2003,"Ukraine",1,0
+2003,"United Kingdom",23,2
+2003,"United States",33,0
+2003,"Venezuela",8,0
+2003,"Yemen",7,16
+2003,"Zimbabwe",1,0
+2004,"Afghanistan",88,NA
+2004,"Algeria",67,166
+2004,"Bangladesh",11,NA
+2004,"Burma",2,1
+2004,"Burundi",1,18
+2004,"Canada",2,0
+2004,"China",2,4
+2004,"Colombia",37,NA
+2004,"Cyprus",1,0
+2004,"Democratic Republic of the Congo",5,22
+2004,"Djibouti",1,0
+2004,"Ecuador",2,0
+2004,"Egypt",3,37
+2004,"Ethiopia",2,1
+2004,"France",11,0
+2004,"Georgia",3,0
+2004,"Germany",3,1
+2004,"Greece",4,0
+2004,"Guatemala",2,3
+2004,"Haiti",2,7
+2004,"Honduras",1,28
+2004,"India",108,NA
+2004,"Indonesia",17,42
+2004,"Iraq",323,NA
+2004,"Israel",19,59
+2004,"Italy",3,1
+2004,"Lebanon",1,1
+2004,"Mauritania",1,0
+2004,"Mexico",1,0
+2004,"Nepal",62,630
+2004,"Netherlands",1,1
+2004,"Nigeria",6,41
+2004,"Pakistan",67,304
+2004,"Palestine",34,NA
+2004,"Peru",3,6
+2004,"Philippines",32,206
+2004,"Russia",44,607
+2004,"Saudi Arabia",17,64
+2004,"Serbia",1,0
+2004,"Somalia",1,2
+2004,"Spain",31,193
+2004,"Sri Lanka",33,30
+2004,"Sudan",5,28
+2004,"Syrian Arab Republic",1,4
+2004,"Taiwan",2,0
+2004,"Thailand",44,32
+2004,"Turkey",27,25
+2004,"Uganda",10,193
+2004,"United Kingdom",5,0
+2004,"United Republic of Tanzania",1,0
+2004,"United States",9,0
+2004,"Uzbekistan",5,36
+2005,"Afghanistan",155,367
+2005,"Algeria",104,NA
+2005,"Argentina",3,0
+2005,"Bangladesh",23,44
+2005,"Bolivia",1,0
+2005,"Burma",8,21
+2005,"Burundi",5,13
+2005,"China",1,12
+2005,"Colombia",42,145
+2005,"Croatia",1,0
+2005,"Democratic Republic of the Congo",5,31
+2005,"Egypt",2,92
+2005,"Ethiopia",5,9
+2005,"France",33,0
+2005,"Georgia",6,8
+2005,"Germany",3,2
+2005,"Greece",6,0
+2005,"Guinea",1,0
+2005,"Guinea-Bissau",4,3
+2005,"Haiti",1,1
+2005,"Hong Kong",1,0
+2005,"India",146,466
+2005,"Indonesia",15,66
+2005,"Iran (Islamic Republic of)",5,13
+2005,"Iraq",617,NA
+2005,"Israel",43,45
+2005,"Italy",6,1
+2005,"Jordan",4,62
+2005,"Kenya",2,56
+2005,"Kuwait",2,2
+2005,"Kyrgyzstan",2,0
+2005,"Lebanon",17,22
+2005,"Mali",1,NA
+2005,"Mauritania",1,23
+2005,"Mexico",1,2
+2005,"Nepal",70,211
+2005,"Nigeria",9,NA
+2005,"Pakistan",77,152
+2005,"Palestine",38,NA
+2005,"Peru",2,7
+2005,"Philippines",25,49
+2005,"Qatar",1,2
+2005,"Russia",64,157
+2005,"Rwanda",1,30
+2005,"Saudi Arabia",1,1
+2005,"Senegal",1,0
+2005,"Serbia",8,1
+2005,"Somalia",6,20
+2005,"Spain",24,0
+2005,"Sri Lanka",133,NA
+2005,"Sudan",6,54
+2005,"Sweden",3,0
+2005,"Tajikistan",1,0
+2005,"Thailand",155,130
+2005,"The former Yugoslav Republic of Macedonia",1,0
+2005,"Togo",1,0
+2005,"Trinidad and Tobago",2,0
+2005,"Turkey",41,35
+2005,"Uganda",11,80
+2005,"United Kingdom",29,57
+2005,"United States",21,0
+2005,"Uruguay",1,0
+2005,"Uzbekistan",2,10
+2005,"Yemen",7,12
+2006,"Afghanistan",282,NA
+2006,"Algeria",152,NA
+2006,"Australia",2,0
+2006,"Austria",1,0
+2006,"Bahrain",1,0
+2006,"Bangladesh",23,19
+2006,"Belarus",1,0
+2006,"Bhutan",1,4
+2006,"Brazil",3,1
+2006,"Burma",2,0
+2006,"Burundi",5,21
+2006,"Canada",2,0
+2006,"Central African Republic",1,4
+2006,"Chad",11,NA
+2006,"Chile",1,0
+2006,"Colombia",43,NA
+2006,"Democratic Republic of the Congo",5,23
+2006,"Egypt",5,19
+2006,"Ethiopia",11,12
+2006,"France",34,1
+2006,"Georgia",3,5
+2006,"Germany",4,2
+2006,"Greece",23,0
+2006,"Guatemala",4,5
+2006,"Guinea-Bissau",1,11
+2006,"Guyana",2,6
+2006,"Haiti",1,2
+2006,"India",167,NA
+2006,"Indonesia",10,6
+2006,"Iran (Islamic Republic of)",14,NA
+2006,"Iraq",838,NA
+2006,"Ireland",1,1
+2006,"Israel",81,NA
+2006,"Italy",4,0
+2006,"Jordan",1,1
+2006,"Kenya",2,18
+2006,"Korea, Democratic People's Republic of",1,0
+2006,"Kyrgyzstan",3,1
+2006,"Lebanon",8,17
+2006,"Lesotho",1,0
+2006,"Madagascar",1,0
+2006,"Maldives",1,0
+2006,"Mexico",7,NA
+2006,"Nepal",83,NA
+2006,"Nigeria",37,NA
+2006,"Norway",1,0
+2006,"Pakistan",164,NA
+2006,"Palestine",35,NA
+2006,"Peru",1,7
+2006,"Philippines",58,60
+2006,"Republic of Moldova",1,2
+2006,"Russia",56,NA
+2006,"Saudi Arabia",3,4
+2006,"Serbia",6,0
+2006,"Somalia",10,22
+2006,"Spain",23,2
+2006,"Sri Lanka",217,NA
+2006,"Sudan",24,NA
+2006,"Swaziland",1,0
+2006,"Sweden",1,0
+2006,"Syrian Arab Republic",1,5
+2006,"Thailand",202,194
+2006,"The former Yugoslav Republic of Macedonia",4,0
+2006,"Turkey",43,46
+2006,"United Kingdom",6,0
+2006,"United States",6,1
+2006,"Yemen",5,NA
+2006,"Zimbabwe",1,0
+2007,"Afghanistan",341,NA
+2007,"Algeria",124,241
+2007,"Armenia",1,0
+2007,"Austria",1,0
+2007,"Azerbaijan",1,0
+2007,"Bangladesh",9,1
+2007,"Belgium",1,0
+2007,"Benin",1,0
+2007,"Bolivia",3,0
+2007,"Burma",3,10
+2007,"Burundi",3,3
+2007,"Cameroon",1,31
+2007,"Central African Republic",1,1
+2007,"Chad",7,136
+2007,"Chile",8,0
+2007,"Colombia",30,64
+2007,"Cuba",1,1
+2007,"Cyprus",1,0
+2007,"Democratic Republic of the Congo",11,NA
+2007,"Eritrea",2,NA
+2007,"Ethiopia",5,204
+2007,"Finland",1,9
+2007,"France",16,3
+2007,"Germany",3,1
+2007,"Greece",15,0
+2007,"Haiti",2,1
+2007,"India",149,626
+2007,"Indonesia",2,0
+2007,"Iran (Islamic Republic of)",9,NA
+2007,"Iraq",1047,NA
+2007,"Ireland",1,0
+2007,"Israel",53,NA
+2007,"Jamaica",1,0
+2007,"Kenya",12,33
+2007,"Kyrgyzstan",1,0
+2007,"Latvia",1,0
+2007,"Lebanon",18,40
+2007,"Libyan Arab Jamahiriya",1,0
+2007,"Maldives",1,0
+2007,"Mali",5,NA
+2007,"Mexico",10,25
+2007,"Montenegro",1,0
+2007,"Morocco",6,13
+2007,"Mozambique",1,6
+2007,"Nepal",90,NA
+2007,"Niger",7,66
+2007,"Nigeria",61,NA
+2007,"Pakistan",260,NA
+2007,"Palestine",88,NA
+2007,"Papua New Guinea",1,0
+2007,"Peru",4,18
+2007,"Philippines",65,115
+2007,"Russia",51,NA
+2007,"Saudi Arabia",1,3
+2007,"Senegal",1,1
+2007,"Serbia",5,1
+2007,"Somalia",156,NA
+2007,"South Africa",2,1
+2007,"Spain",11,0
+2007,"Sri Lanka",132,410
+2007,"Sudan",23,317
+2007,"Switzerland",2,0
+2007,"Tajikistan",1,1
+2007,"Thailand",293,264
+2007,"The former Yugoslav Republic of Macedonia",3,1
+2007,"Tunisia",1,14
+2007,"Turkey",29,NA
+2007,"Uganda",1,2
+2007,"Ukraine",1,0
+2007,"United Kingdom",20,4
+2007,"United States",8,0
+2007,"Venezuela",2,1
+2007,"Western Sahara",1,0
+2007,"Yemen",7,NA
+2007,"Zimbabwe",1,0
+2008,"Afghanistan",414,NA
+2008,"Algeria",107,249
+2008,"Australia",3,0
+2008,"Austria",7,0
+2008,"Azerbaijan",2,5
+2008,"Bahrain",1,1
+2008,"Bangladesh",19,9
+2008,"Belarus",1,0
+2008,"Bhutan",3,5
+2008,"Bulgaria",2,0
+2008,"Burma",20,14
+2008,"Burundi",7,28
+2008,"Cambodia",2,1
+2008,"Cameroon",1,3
+2008,"Canada",5,0
+2008,"Central African Republic",2,1
+2008,"Chad",8,172
+2008,"Chile",4,0
+2008,"China",20,39
+2008,"Colombia",133,85
+2008,"Croatia",2,0
+2008,"Czech Republic",2,0
+2008,"Democratic Republic of the Congo",20,319
+2008,"Denmark",1,0
+2008,"Ecuador",2,0
+2008,"Egypt",1,0
+2008,"Eritrea",2,4
+2008,"Ethiopia",8,27
+2008,"Finland",1,0
+2008,"France",13,0
+2008,"Georgia",33,13
+2008,"Germany",3,0
+2008,"Greece",53,0
+2008,"Guyana",3,23
+2008,"Hong Kong",1,0
+2008,"Hungary",2,0
+2008,"India",534,NA
+2008,"Indonesia",13,0
+2008,"Iran (Islamic Republic of)",8,26
+2008,"Iraq",1106,NA
+2008,"Ireland",5,0
+2008,"Israel",134,NA
+2008,"Italy",2,0
+2008,"Japan",3,0
+2008,"Kazakhstan",1,2
+2008,"Kenya",11,103
+2008,"Lebanon",58,142
+2008,"Liberia",1,12
+2008,"Libyan Arab Jamahiriya",1,0
+2008,"Malaysia",2,0
+2008,"Maldives",1,0
+2008,"Mali",9,55
+2008,"Mauritania",2,12
+2008,"Mexico",8,21
+2008,"Nepal",120,NA
+2008,"Netherlands",1,0
+2008,"New Zealand",5,0
+2008,"Niger",9,6
+2008,"Nigeria",76,NA
+2008,"Pakistan",568,NA
+2008,"Palestine",63,17
+2008,"Peru",1,0
+2008,"Philippines",276,NA
+2008,"Romania",1,0
+2008,"Russia",170,95
+2008,"Rwanda",1,0
+2008,"Senegal",2,10
+2008,"Serbia",15,2
+2008,"Somalia",172,NA
+2008,"South Africa",1,0
+2008,"Spain",37,3
+2008,"Sri Lanka",100,353
+2008,"Sudan",32,205
+2008,"Swaziland",3,0
+2008,"Sweden",1,0
+2008,"Syrian Arab Republic",1,18
+2008,"Taiwan",1,0
+2008,"Thailand",200,NA
+2008,"The former Yugoslav Republic of Macedonia",13,4
+2008,"Tunisia",2,0
+2008,"Turkey",32,42
+2008,"Uganda",7,3
+2008,"Ukraine",1,0
+2008,"United Kingdom",39,0
+2008,"United Republic of Tanzania",1,0
+2008,"United States",18,2
+2008,"Venezuela",1,1
+2008,"Yemen",22,74
+2008,"Zimbabwe",5,7
+2009,"Afghanistan",503,NA
+2009,"Albania",1,0
+2009,"Algeria",108,204
+2009,"Angola",1,2
+2009,"Argentina",1,0
+2009,"Armenia",1,1
+2009,"Australia",1,0
+2009,"Austria",3,1
+2009,"Azerbaijan",2,NA
+2009,"Bangladesh",27,18
+2009,"Belgium",1,0
+2009,"Bolivia",3,0
+2009,"Burma",14,46
+2009,"Cameroon",1,0
+2009,"Canada",4,0
+2009,"Central African Republic",5,38
+2009,"Chad",3,0
+2009,"Chile",8,0
+2009,"China",7,NA
+2009,"Colombia",139,NA
+2009,"Croatia",1,0
+2009,"Czech Republic",1,0
+2009,"Democratic Republic of the Congo",54,824
+2009,"Ecuador",1,0
+2009,"Egypt",2,1
+2009,"Equatorial Guinea",1,1
+2009,"Eritrea",1,2
+2009,"Ethiopia",2,NA
+2009,"France",9,0
+2009,"Georgia",25,5
+2009,"Germany",4,0
+2009,"Greece",115,1
+2009,"Guinea-Bissau",1,1
+2009,"Honduras",8,2
+2009,"Hungary",1,2
+2009,"India",672,NA
+2009,"Indonesia",19,15
+2009,"Iran (Islamic Republic of)",15,97
+2009,"Iraq",1137,NA
+2009,"Israel",36,1
+2009,"Italy",4,0
+2009,"Japan",1,0
+2009,"Kenya",1,0
+2009,"Lebanon",14,17
+2009,"Lesotho",1,0
+2009,"Madagascar",1,2
+2009,"Malaysia",1,0
+2009,"Mali",6,30
+2009,"Mauritania",5,2
+2009,"Mexico",1,2
+2009,"Nepal",39,20
+2009,"Netherlands",1,7
+2009,"Niger",4,18
+2009,"Nigeria",42,NA
+2009,"Pakistan",667,NA
+2009,"Palestine",10,7
+2009,"Panama",1,1
+2009,"Peru",4,19
+2009,"Philippines",229,151
+2009,"Republic of Moldova",1,0
+2009,"Russia",152,141
+2009,"Rwanda",1,4
+2009,"Saudi Arabia",3,5
+2009,"Senegal",3,9
+2009,"Serbia",4,0
+2009,"Somalia",122,NA
+2009,"Spain",21,3
+2009,"Sri Lanka",37,201
+2009,"Sudan",26,77
+2009,"Sweden",1,0
+2009,"Tajikistan",1,0
+2009,"Thailand",298,270
+2009,"The former Yugoslav Republic of Macedonia",2,0
+2009,"Turkey",13,18
+2009,"Uganda",2,11
+2009,"Ukraine",2,0
+2009,"United Kingdom",23,3
+2009,"United States",11,18
+2009,"Uzbekistan",2,3
+2009,"Venezuela",3,10
+2009,"Yemen",23,NA
+2010,"Afghanistan",542,1157
+2010,"Algeria",100,109
+2010,"Angola",2,4
+2010,"Argentina",5,0
+2010,"Australia",1,0
+2010,"Bahrain",2,0
+2010,"Bangladesh",22,15
+2010,"Belarus",2,0
+2010,"Burma",11,13
+2010,"Burundi",29,14
+2010,"Cameroon",3,5
+2010,"Canada",2,0
+2010,"Central African Republic",13,46
+2010,"Chad",1,0
+2010,"Chile",5,0
+2010,"China",1,7
+2010,"Colombia",136,56
+2010,"Democratic Republic of the Congo",18,NA
+2010,"Denmark",1,0
+2010,"Egypt",2,0
+2010,"Eritrea",1,17
+2010,"Ethiopia",2,8
+2010,"France",3,0
+2010,"Georgia",7,4
+2010,"Germany",1,0
+2010,"Greece",49,4
+2010,"India",663,812
+2010,"Indonesia",4,0
+2010,"Iran (Islamic Republic of)",14,115
+2010,"Iraq",1179,2074
+2010,"Ireland",4,0
+2010,"Israel",14,4
+2010,"Italy",10,0
+2010,"Jordan",2,1
+2010,"Kenya",12,19
+2010,"Kyrgyzstan",1,0
+2010,"Lebanon",5,2
+2010,"Mali",1,1
+2010,"Mauritania",1,1
+2010,"Mexico",5,0
+2010,"Nepal",38,10
+2010,"Netherlands",1,0
+2010,"Niger",3,9
+2010,"Nigeria",63,117
+2010,"Norway",1,0
+2010,"Pakistan",713,1699
+2010,"Palestine",11,0
+2010,"Paraguay",2,2
+2010,"Philippines",205,155
+2010,"Poland",1,1
+2010,"Russia",251,231
+2010,"Rwanda",8,6
+2010,"Senegal",1,3
+2010,"Serbia",2,1
+2010,"Somalia",130,NA
+2010,"Spain",3,0
+2010,"Sri Lanka",3,2
+2010,"Sudan",28,NA
+2010,"Sweden",3,1
+2010,"Tajikistan",1,4
+2010,"Thailand",253,154
+2010,"The former Yugoslav Republic of Macedonia",1,1
+2010,"Trinidad and Tobago",1,0
+2010,"Turkey",20,13
+2010,"Uganda",6,75
+2010,"Ukraine",4,1
+2010,"United Arab Emirates",2,0
+2010,"United Kingdom",57,0
+2010,"United Republic of Tanzania",1,0
+2010,"United States",17,4
+2010,"Yemen",112,345
+2010,"Zimbabwe",1,1
+2011,"Afghanistan",421,NA
+2011,"Algeria",15,NA
+2011,"Argentina",1,0
+2011,"Austria",1,0
+2011,"Bahrain",1,0
+2011,"Bangladesh",13,9
+2011,"Belarus",1,13
+2011,"Bhutan",1,0
+2011,"Bulgaria",2,0
+2011,"Burma",2,0
+2011,"Burundi",8,47
+2011,"Cameroon",3,4
+2011,"Central African Republic",3,35
+2011,"Chile",6,0
+2011,"China",4,19
+2011,"Colombia",94,43
+2011,"Czech Republic",1,0
+2011,"Democratic Republic of the Congo",16,NA
+2011,"Ecuador",1,0
+2011,"Egypt",18,28
+2011,"Eritrea",1,17
+2011,"Estonia",1,1
+2011,"Ethiopia",3,2
+2011,"France",8,0
+2011,"Georgia",3,1
+2011,"Germany",8,2
+2011,"Greece",11,0
+2011,"Honduras",1,2
+2011,"India",645,NA
+2011,"Indonesia",21,20
+2011,"Iran (Islamic Republic of)",13,18
+2011,"Iraq",1308,NA
+2011,"Ireland",4,1
+2011,"Israel",51,21
+2011,"Italy",5,2
+2011,"Kazakhstan",5,12
+2011,"Kenya",42,NA
+2011,"Kuwait",1,0
+2011,"Kyrgyzstan",1,0
+2011,"Lebanon",10,1
+2011,"Libyan Arab Jamahiriya",2,0
+2011,"Madagascar",1,0
+2011,"Mali",4,5
+2011,"Mauritania",3,1
+2011,"Mexico",2,0
+2011,"Morocco",1,17
+2011,"Nepal",46,16
+2011,"Netherlands",2,0
+2011,"Niger",2,4
+2011,"Nigeria",175,NA
+2011,"Norway",3,77
+2011,"Pakistan",1012,NA
+2011,"Palestine",20,15
+2011,"Paraguay",4,0
+2011,"Philippines",151,127
+2011,"Portugal",2,0
+2011,"Russia",188,160
+2011,"Rwanda",2,2
+2011,"Saudi Arabia",2,3
+2011,"Senegal",4,NA
+2011,"Serbia",1,0
+2011,"Somalia",185,NA
+2011,"Sudan",38,NA
+2011,"Sweden",1,0
+2011,"Switzerland",3,0
+2011,"Syrian Arab Republic",49,NA
+2011,"Thailand",182,152
+2011,"The former Yugoslav Republic of Macedonia",1,0
+2011,"Tunisia",3,4
+2011,"Turkey",51,25
+2011,"Ukraine",3,0
+2011,"United Kingdom",47,1
+2011,"United States",10,0
+2011,"Yemen",118,NA
+2011,"Zimbabwe",1,0
+2012,"Afghanistan",1469,NA
+2012,"Algeria",41,30
+2012,"Argentina",2,0
+2012,"Bahrain",26,4
+2012,"Bangladesh",18,8
+2012,"Belarus",3,0
+2012,"Belgium",1,1
+2012,"Bolivia",1,0
+2012,"Brazil",1,1
+2012,"Bulgaria",2,8
+2012,"Burma",17,16
+2012,"Burundi",4,6
+2012,"Canada",3,0
+2012,"Central African Republic",4,NA
+2012,"Chile",2,0
+2012,"China",4,27
+2012,"Colombia",115,168
+2012,"Cyprus",1,0
+2012,"Democratic Republic of the Congo",25,NA
+2012,"Ecuador",1,0
+2012,"Egypt",49,NA
+2012,"Ethiopia",3,25
+2012,"France",66,8
+2012,"Georgia",3,1
+2012,"Germany",5,0
+2012,"Greece",22,0
+2012,"Guatemala",1,2
+2012,"Guinea-Bissau",1,1
+2012,"Iceland",1,0
+2012,"India",611,NA
+2012,"Indonesia",39,15
+2012,"Iran (Islamic Republic of)",5,12
+2012,"Iraq",1437,NA
+2012,"Ireland",29,0
+2012,"Israel",65,14
+2012,"Italy",10,0
+2012,"Jordan",2,1
+2012,"Kazakhstan",4,2
+2012,"Kenya",80,107
+2012,"Lao People's Democratic Republic",1,0
+2012,"Lebanon",15,9
+2012,"Liberia",1,0
+2012,"Libyan Arab Jamahiriya",57,NA
+2012,"Madagascar",1,0
+2012,"Malaysia",2,2
+2012,"Maldives",1,0
+2012,"Mali",19,NA
+2012,"Mexico",16,17
+2012,"Mozambique",1,1
+2012,"Nepal",46,9
+2012,"Niger",1,1
+2012,"Nigeria",616,NA
+2012,"Pakistan",1654,NA
+2012,"Palestine",23,12
+2012,"Paraguay",4,1
+2012,"Peru",6,10
+2012,"Philippines",249,NA
+2012,"Republic of Moldova",1,0
+2012,"Russia",151,NA
+2012,"Rwanda",6,10
+2012,"Saudi Arabia",6,4
+2012,"Senegal",12,NA
+2012,"Serbia",7,4
+2012,"Somalia",325,NA
+2012,"South Africa",4,5
+2012,"Spain",1,0
+2012,"Sri Lanka",4,0
+2012,"Sudan",45,NA
+2012,"Sweden",2,0
+2012,"Syrian Arab Republic",180,NA
+2012,"Tajikistan",5,3
+2012,"Thailand",279,209
+2012,"The former Yugoslav Republic of Macedonia",1,5
+2012,"Tunisia",3,4
+2012,"Turkey",188,NA
+2012,"Uganda",4,5
+2012,"Ukraine",8,1
+2012,"United Kingdom",55,2
+2012,"United States",20,7
+2012,"Venezuela",1,0
+2012,"Yemen",312,NA
+2013,"Afghanistan",1443,NA
+2013,"Albania",1,0
+2013,"Algeria",22,NA
+2013,"Argentina",2,0
+2013,"Armenia",1,0
+2013,"Australia",1,0
+2013,"Austria",1,0
+2013,"Bahamas",1,0
+2013,"Bahrain",52,3
+2013,"Bangladesh",139,16
+2013,"Belize",1,0
+2013,"Brazil",3,2
+2013,"Bulgaria",3,0
+2013,"Burkina Faso",1,1
+2013,"Burma",18,11
+2013,"Burundi",2,5
+2013,"Cambodia",2,0
+2013,"Cameroon",3,7
+2013,"Canada",4,0
+2013,"Central African Republic",20,NA
+2013,"Chile",5,2
+2013,"China",12,NA
+2013,"Colombia",149,NA
+2013,"Croatia",2,0
+2013,"Cyprus",9,0
+2013,"Czech Republic",1,1
+2013,"Democratic Republic of the Congo",23,NA
+2013,"Denmark",1,0
+2013,"Dominican Republic",1,0
+2013,"Ecuador",2,1
+2013,"Egypt",321,NA
+2013,"Ethiopia",5,17
+2013,"France",18,0
+2013,"Georgia",2,2
+2013,"Greece",54,3
+2013,"Guatemala",6,4
+2013,"Guinea",2,0
+2013,"Honduras",2,5
+2013,"India",694,NA
+2013,"Indonesia",32,23
+2013,"Iran (Islamic Republic of)",11,39
+2013,"Iraq",2852,NA
+2013,"Ireland",27,0
+2013,"Israel",37,2
+2013,"Italy",7,0
+2013,"Japan",1,0
+2013,"Jordan",1,0
+2013,"Kazakhstan",4,0
+2013,"Kenya",80,NA
+2013,"Lebanon",121,NA
+2013,"Libyan Arab Jamahiriya",291,NA
+2013,"Madagascar",2,0
+2013,"Malaysia",13,2
+2013,"Maldives",3,0
+2013,"Mali",58,NA
+2013,"Mexico",8,47
+2013,"Montenegro",2,0
+2013,"Mozambique",18,37
+2013,"Nepal",104,NA
+2013,"Niger",4,26
+2013,"Nigeria",346,NA
+2013,"Pakistan",2215,NA
+2013,"Palestine",64,NA
+2013,"Paraguay",10,12
+2013,"Peru",10,6
+2013,"Philippines",651,NA
+2013,"Russia",144,NA
+2013,"Rwanda",4,6
+2013,"Saudi Arabia",6,1
+2013,"Senegal",3,7
+2013,"Serbia",6,1
+2013,"Somalia",342,NA
+2013,"South Africa",13,NA
+2013,"Spain",5,0
+2013,"Sri Lanka",14,0
+2013,"Sudan",59,NA
+2013,"Switzerland",2,0
+2013,"Syrian Arab Republic",285,NA
+2013,"Taiwan",2,0
+2013,"Thailand",472,255
+2013,"The former Yugoslav Republic of Macedonia",1,0
+2013,"Trinidad and Tobago",3,0
+2013,"Tunisia",29,25
+2013,"Turkey",42,NA
+2013,"Ukraine",5,1
+2013,"United Arab Emirates",1,0
+2013,"United Kingdom",137,4
+2013,"United Republic of Tanzania",7,8
+2013,"United States",20,23
+2013,"Venezuela",1,0
+2013,"Yemen",425,NA
+2013,"Zimbabwe",3,1
+2014,"Afghanistan",1824,NA
+2014,"Albania",2,1
+2014,"Algeria",13,NA
+2014,"Argentina",1,0
+2014,"Australia",8,4
+2014,"Azerbaijan",3,0
+2014,"Bahrain",42,NA
+2014,"Bangladesh",130,38
+2014,"Belgium",2,4
+2014,"Bhutan",1,NA
+2014,"Brazil",3,2
+2014,"Bulgaria",1,0
+2014,"Burma",15,NA
+2014,"Burundi",5,4
+2014,"Cameroon",68,NA
+2014,"Canada",3,7
+2014,"Central African Republic",94,NA
+2014,"Chad",1,6
+2014,"Chile",17,1
+2014,"China",37,NA
+2014,"Colombia",231,NA
+2014,"Cyprus",5,0
+2014,"Czech Republic",5,1
+2014,"Democratic Republic of the Congo",110,NA
+2014,"Djibouti",1,5
+2014,"Dominican Republic",1,0
+2014,"Egypt",354,NA
+2014,"Ethiopia",2,NA
+2014,"France",14,1
+2014,"Georgia",2,0
+2014,"Germany",13,0
+2014,"Ghana",1,0
+2014,"Greece",26,0
+2014,"Honduras",1,0
+2014,"Hungary",1,0
+2014,"Iceland",1,0
+2014,"India",860,NA
+2014,"Indonesia",35,NA
+2014,"Iran (Islamic Republic of)",9,NA
+2014,"Iraq",3933,NA
+2014,"Ireland",33,0
+2014,"Israel",293,49
+2014,"Italy",7,0
+2014,"Jamaica",1,0
+2014,"Japan",5,0
+2014,"Jordan",3,1
+2014,"Kenya",115,NA
+2014,"Kyrgyzstan",2,1
+2014,"Lebanon",204,NA
+2014,"Liberia",1,0
+2014,"Libyan Arab Jamahiriya",728,NA
+2014,"Madagascar",1,1
+2014,"Malaysia",12,NA
+2014,"Maldives",9,NA
+2014,"Mali",69,NA
+2014,"Malta",1,0
+2014,"Mexico",5,1
+2014,"Mozambique",22,22
+2014,"Nepal",7,0
+2014,"Netherlands",1,0
+2014,"New Zealand",1,0
+2014,"Nicaragua",2,5
+2014,"Niger",5,11
+2014,"Nigeria",714,NA
+2014,"Pakistan",2151,NA
+2014,"Palestine",133,67
+2014,"Paraguay",15,NA
+2014,"Peru",12,4
+2014,"Philippines",597,NA
+2014,"Russia",48,67
+2014,"Rwanda",2,1
+2014,"Saudi Arabia",14,20
+2014,"Senegal",2,7
+2014,"Serbia",4,2
+2014,"Somalia",872,NA
+2014,"South Africa",20,9
+2014,"Spain",4,0
+2014,"Sri Lanka",16,3
+2014,"Sudan",197,NA
+2014,"Sweden",5,0
+2014,"Syrian Arab Republic",331,NA
+2014,"Taiwan",1,0
+2014,"Tajikistan",1,1
+2014,"Thailand",423,192
+2014,"The former Yugoslav Republic of Macedonia",6,0
+2014,"Tunisia",23,43
+2014,"Turkey",94,NA
+2014,"Turkmenistan",1,3
+2014,"Uganda",6,98
+2014,"Ukraine",895,NA
+2014,"United Arab Emirates",2,1
+2014,"United Kingdom",103,0
+2014,"United Republic of Tanzania",11,4
+2014,"United States",29,26
+2014,"Venezuela",4,1
+2014,"Yemen",763,NA
+2014,"Zimbabwe",1,0
+2015,"Afghanistan",1928,NA
+2015,"Albania",4,0
+2015,"Algeria",16,21
+2015,"Argentina",1,0
+2015,"Armenia",2,0
+2015,"Australia",14,2
+2015,"Bahrain",18,5
+2015,"Bangladesh",469,NA
+2015,"Brazil",5,3
+2015,"Bulgaria",2,0
+2015,"Burkina Faso",6,NA
+2015,"Burma",37,NA
+2015,"Burundi",102,NA
+2015,"Cameroon",83,NA
+2015,"Canada",5,0
+2015,"Central African Republic",48,NA
+2015,"Chad",27,NA
+2015,"Chile",1,0
+2015,"China",17,NA
+2015,"Colombia",136,NA
+2015,"Cyprus",3,0
+2015,"Czech Republic",4,0
+2015,"Democratic Republic of the Congo",143,NA
+2015,"Denmark",4,2
+2015,"Djibouti",1,NA
+2015,"Ecuador",1,0
+2015,"Egypt",647,NA
+2015,"Estonia",2,0
+2015,"Ethiopia",7,NA
+2015,"Finland",9,0
+2015,"France",37,162
+2015,"Georgia",1,0
+2015,"Germany",65,1
+2015,"Greece",31,1
+2015,"Guinea",2,1
+2015,"Hungary",1,0
+2015,"India",884,NA
+2015,"Indonesia",29,22
+2015,"Iran (Islamic Republic of)",9,38
+2015,"Iraq",2751,NA
+2015,"Ireland",28,0
+2015,"Israel",58,20
+2015,"Italy",5,0
+2015,"Japan",10,0
+2015,"Jordan",4,7
+2015,"Kenya",71,281
+2015,"Korea, Democratic People's Republic of",1,0
+2015,"Kuwait",1,28
+2015,"Kyrgyzstan",3,1
+2015,"Lao People's Democratic Republic",2,0
+2015,"Lebanon",44,NA
+2015,"Lesotho",1,1
+2015,"Libyan Arab Jamahiriya",543,NA
+2015,"Malaysia",5,1
+2015,"Maldives",2,0
+2015,"Mali",121,NA
+2015,"Malta",1,0
+2015,"Mexico",19,9
+2015,"Montenegro",1,0
+2015,"Morocco",1,0
+2015,"Mozambique",8,NA
+2015,"Nepal",48,0
+2015,"Netherlands",3,0
+2015,"Niger",41,NA
+2015,"Nigeria",638,NA
+2015,"Pakistan",1243,NA
+2015,"Palestine",246,117
+2015,"Paraguay",19,14
+2015,"Peru",10,6
+2015,"Philippines",721,NA
+2015,"Qatar",1,0
+2015,"Russia",21,21
+2015,"Saudi Arabia",103,NA
+2015,"Senegal",2,NA
+2015,"Serbia",2,0
+2015,"Somalia",418,NA
+2015,"South Africa",5,5
+2015,"Spain",1,0
+2015,"Sri Lanka",11,3
+2015,"Sudan",212,NA
+2015,"Sweden",32,4
+2015,"Syrian Arab Republic",491,NA
+2015,"Tajikistan",3,12
+2015,"Thailand",278,116
+2015,"The former Yugoslav Republic of Macedonia",10,4
+2015,"Trinidad and Tobago",1,0
+2015,"Tunisia",17,103
+2015,"Turkey",422,NA
+2015,"Uganda",10,NA
+2015,"Ukraine",637,NA
+2015,"United Kingdom",114,1
+2015,"United Republic of Tanzania",14,10
+2015,"United States",38,54
+2015,"Uzbekistan",1,0
+2015,"Venezuela",3,1
+2015,"Yemen",664,NA
+2016,"Afghanistan",1617,NA
+2016,"Albania",2,0
+2016,"Algeria",9,9
+2016,"Angola",2,NA
+2016,"Argentina",2,0
+2016,"Armenia",2,6
+2016,"Australia",9,0
+2016,"Austria",3,0
+2016,"Azerbaijan",2,1
+2016,"Bahrain",3,1
+2016,"Bangladesh",88,NA
+2016,"Belgium",6,36
+2016,"Brazil",2,1
+2016,"Bulgaria",1,0
+2016,"Burkina Faso",10,NA
+2016,"Burma",74,NA
+2016,"Burundi",83,NA
+2016,"Cameroon",56,NA
+2016,"Canada",6,1
+2016,"Central African Republic",38,NA
+2016,"Chad",5,22
+2016,"Chile",18,2
+2016,"China",5,13
+2016,"Colombia",109,NA
+2016,"Cyprus",2,0
+2016,"Czech Republic",2,0
+2016,"Democratic Republic of the Congo",184,NA
+2016,"Denmark",1,1
+2016,"Ecuador",2,1
+2016,"Egypt",376,NA
+2016,"Ethiopia",13,NA
+2016,"Finland",3,0
+2016,"France",26,95
+2016,"Georgia",4,1
+2016,"Germany",44,27
+2016,"Ghana",1,0
+2016,"Greece",31,66
+2016,"Guinea",1,1
+2016,"Guyana",1,0
+2016,"Haiti",1,7
+2016,"Honduras",1,2
+2016,"Hungary",1,0
+2016,"India",1025,NA
+2016,"Indonesia",19,22
+2016,"Iran (Islamic Republic of)",10,NA
+2016,"Iraq",3360,NA
+2016,"Ireland",15,2
+2016,"Israel",50,16
+2016,"Italy",11,1
+2016,"Japan",1,19
+2016,"Jordan",9,35
+2016,"Kazakhstan",3,10
+2016,"Kenya",65,NA
+2016,"Korea, Democratic People's Republic of",1,0
+2016,"Kuwait",2,1
+2016,"Kyrgyzstan",4,1
+2016,"Lao People's Democratic Republic",4,3
+2016,"Lebanon",41,NA
+2016,"Libyan Arab Jamahiriya",422,NA
+2016,"Madagascar",1,3
+2016,"Malaysia",19,NA
+2016,"Maldives",1,0
+2016,"Mali",99,NA
+2016,"Mexico",5,4
+2016,"Mozambique",79,NA
+2016,"Nepal",43,5
+2016,"Netherlands",6,1
+2016,"New Zealand",1,0
+2016,"Niger",25,190
+2016,"Nigeria",533,NA
+2016,"Pakistan",864,NA
+2016,"Palestine",157,90
+2016,"Panama",1,0
+2016,"Paraguay",15,NA
+2016,"Peru",3,11
+2016,"Philippines",632,NA
+2016,"Poland",2,0
+2016,"Republic of Moldova",1,0
+2016,"Russia",55,64
+2016,"Rwanda",1,0
+2016,"Saudi Arabia",124,NA
+2016,"Serbia",8,0
+2016,"Sierra Leone",1,1
+2016,"Somalia",602,NA
+2016,"South Africa",27,21
+2016,"Spain",3,0
+2016,"Sri Lanka",1,0
+2016,"Sudan",232,NA
+2016,"Sweden",16,0
+2016,"Switzerland",1,0
+2016,"Syrian Arab Republic",473,NA
+2016,"Taiwan",1,0
+2016,"Tajikistan",2,2
+2016,"Thailand",329,120
+2016,"Tunisia",12,71
+2016,"Turkey",542,NA
+2016,"Uganda",15,NA
+2016,"Ukraine",61,NA
+2016,"United Kingdom",105,9
+2016,"United Republic of Tanzania",3,3
+2016,"United States",64,68
+2016,"Uruguay",1,1
+2016,"Venezuela",6,9
+2016,"Yemen",525,NA
+2017,"Afghanistan",1414,NA
+2017,"Albania",1,0
+2017,"Algeria",14,12
+2017,"Angola",6,NA
+2017,"Argentina",3,0
+2017,"Australia",4,4
+2017,"Austria",1,2
+2017,"Azerbaijan",2,5
+2017,"Bahrain",21,6
+2017,"Bangladesh",41,NA
+2017,"Belgium",3,2
+2017,"Brazil",2,0
+2017,"Burkina Faso",32,NA
+2017,"Burma",115,NA
+2017,"Burundi",21,NA
+2017,"Cameroon",94,NA
+2017,"Canada",12,6
+2017,"Central African Republic",43,NA
+2017,"Chad",6,NA
+2017,"Chile",12,0
+2017,"China",6,16
+2017,"Colombia",117,NA
+2017,"Czech Republic",3,0
+2017,"Democratic Republic of the Congo",143,NA
+2017,"Djibouti",1,NA
+2017,"Dominican Republic",1,2
+2017,"Ecuador",3,0
+2017,"Egypt",224,NA
+2017,"Ethiopia",27,NA
+2017,"Finland",2,2
+2017,"France",41,7
+2017,"Gabon",4,0
+2017,"Georgia",1,0
+2017,"Germany",27,1
+2017,"Greece",43,0
+2017,"Honduras",1,2
+2017,"India",966,NA
+2017,"Indonesia",27,NA
+2017,"Iran (Islamic Republic of)",11,39
+2017,"Iraq",2466,NA
+2017,"Ireland",17,0
+2017,"Israel",32,3
+2017,"Italy",8,0
+2017,"Jamaica",2,0
+2017,"Jordan",8,4
+2017,"Kenya",97,NA
+2017,"Kyrgyzstan",2,0
+2017,"Lao People's Democratic Republic",1,1
+2017,"Latvia",1,0
+2017,"Lebanon",23,NA
+2017,"Liberia",1,0
+2017,"Libyan Arab Jamahiriya",190,NA
+2017,"Malawi",1,0
+2017,"Malaysia",4,NA
+2017,"Maldives",2,1
+2017,"Mali",141,NA
+2017,"Malta",3,1
+2017,"Mexico",20,23
+2017,"Mozambique",11,22
+2017,"Nepal",247,NA
+2017,"Netherlands",1,0
+2017,"Niger",13,NA
+2017,"Nigeria",484,NA
+2017,"Norway",1,0
+2017,"Pakistan",719,NA
+2017,"Palestine",83,50
+2017,"Papua New Guinea",8,0
+2017,"Paraguay",10,4
+2017,"Peru",8,NA
+2017,"Philippines",692,NA
+2017,"Poland",1,0
+2017,"Russia",33,61
+2017,"Rwanda",2,2
+2017,"Saudi Arabia",54,NA
+2017,"Serbia",9,0
+2017,"Sierra Leone",3,NA
+2017,"Somalia",614,NA
+2017,"South Africa",29,21
+2017,"Spain",4,21
+2017,"Sri Lanka",41,NA
+2017,"Sudan",160,NA
+2017,"Sweden",18,5
+2017,"Syrian Arab Republic",243,NA
+2017,"Taiwan",1,0
+2017,"Tajikistan",2,1
+2017,"Thailand",179,NA
+2017,"The former Yugoslav Republic of Macedonia",1,0
+2017,"Tunisia",4,5
+2017,"Turkey",181,222
+2017,"Uganda",13,NA
+2017,"Ukraine",61,NA
+2017,"United Kingdom",122,42
+2017,"United Republic of Tanzania",6,NA
+2017,"United States",65,95
+2017,"Venezuela",17,5
+2017,"Viet Nam",2,0
+2017,"Yemen",226,NA
+2017,"Zambia",2,0
+2017,"Zimbabwe",3,0
